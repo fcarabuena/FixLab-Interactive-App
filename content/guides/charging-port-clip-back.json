@@ -1,0 +1,124 @@
+{
+  "id": "charging-port-clip-back",
+  "title": "Replace the charging port on a clip-back phone",
+  "constructionType": "clip-back",
+  "repairType": "charging-port",
+  "difficulty": "easy",
+  "estimatedTime": "45 to 90 minutes",
+  "tools": [
+    "Plastic opening tool",
+    "Plastic spudger",
+    "Precision screwdriver set",
+    "Tray or mat to keep screws in order",
+    "Soft brush",
+    "Safety glasses",
+    "Anti-static mat and wrist strap"
+  ],
+  "parts": ["Replacement charging board or flex made for your exact phone model"],
+  "diyCheck": {
+    "summary": "This is a sample guide for learning the general method on a clip-back phone with a separate charging board. Your phone's layout may differ, so also check a guide written for your exact model.",
+    "goToShopIf": [
+      "The charging port is soldered directly to the mainboard",
+      "The battery is swollen or the back is lifting by itself",
+      "The phone has been in water or has burn marks",
+      "You do not have a replacement part made for your exact model"
+    ]
+  },
+  "steps": [
+    {
+      "number": 1,
+      "title": "Check the port is really the problem",
+      "body": "Power the phone off. Try a charger and cable you know work. Shine a light into the port and gently remove any lint with a soft brush or a wooden toothpick. Many charging problems end here, with no need to open the phone.",
+      "image": "placeholders/guide-charging-port-clip-back-step-01.png",
+      "warnings": ["Never put metal, such as a pin or needle, into the charging port."],
+      "checklist": ["Tried a charger and cable that work", "Port is clean, and the fault is still there"]
+    },
+    {
+      "number": 2,
+      "title": "Prepare the phone and your workspace",
+      "body": "Back up your data. Keep the phone powered off and unplugged. Lay out your tray and anti-static mat, and clear the table of anything that can burn.",
+      "image": "placeholders/guide-charging-port-clip-back-step-02.png",
+      "warnings": [],
+      "checklist": ["Data is backed up", "Phone is off and unplugged", "Wrist strap is on and grounded"]
+    },
+    {
+      "number": 3,
+      "title": "Remove the SIM tray and outer screws",
+      "body": "Take out the SIM tray and any visible screws. Check under stickers and rubber plugs for hidden screws. Keep everything in order on your tray.",
+      "image": "placeholders/guide-charging-port-clip-back-step-03.png",
+      "warnings": [],
+      "checklist": ["SIM tray is out", "Visible and hidden screws are removed and in order"]
+    },
+    {
+      "number": 4,
+      "title": "Release the clips",
+      "body": "Slide a plastic opening tool into the seam and work around the phone so the clips release one at a time. You will hear small clicks. If a section will not move, look for a screw you missed before using more force.",
+      "image": "placeholders/guide-charging-port-clip-back-step-04.png",
+      "warnings": ["Keep the tool shallow, and never push it toward the battery."],
+      "checklist": ["Back cover is off", "No clips were forced"]
+    },
+    {
+      "number": 5,
+      "title": "Disconnect the battery",
+      "body": "Remove any inner plate that covers the battery connector. Lift the connector straight up with a plastic spudger, then bend it slightly away from the socket so it cannot touch again.",
+      "image": "placeholders/guide-charging-port-clip-back-step-05.png",
+      "warnings": ["Use plastic only. A metal tool can short the connector and cause sparks."],
+      "checklist": ["Connector is unplugged", "Connector cannot spring back onto the socket"],
+      "diyGate": {
+        "question": "The phone is open and you are about to work near the battery. Look at it closely.",
+        "stopIf": [
+          "The battery looks puffy, dented or punctured",
+          "You can see corrosion or signs of water inside",
+          "The phone feels hot while switched off"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "Remove the lower cover",
+      "body": "Unscrew the plastic cover over the bottom of the phone and lift it off. It often holds the loudspeaker, so note how it sits before you move it.",
+      "image": "placeholders/guide-charging-port-clip-back-step-06.png",
+      "warnings": [],
+      "checklist": ["Screws are laid out in order", "Charging board is visible"]
+    },
+    {
+      "number": 7,
+      "title": "Remove the old charging board",
+      "body": "Take a photo so you can see how the thin antenna cable is routed. Unclip the antenna cable with the spudger, lifting straight up. Unplug the flex that links the charging board to the mainboard, remove any screws, and lift the board out.",
+      "image": "placeholders/guide-charging-port-clip-back-step-07.png",
+      "warnings": ["The antenna cable connector is delicate. Do not pull on the wire."],
+      "checklist": ["Took a photo of the cable routing", "Old board is out with no torn cables"],
+      "diyGate": {
+        "question": "This guide only works if the port is on its own removable board.",
+        "stopIf": [
+          "The port is soldered to the mainboard",
+          "The new part does not match the old one exactly"
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "title": "Fit the new charging board",
+      "body": "Set the new board in place and refit its screws. Press the flex connector straight down until it clicks, then snap the antenna cable back on. Route the cable the way it looks in your photo.",
+      "image": "placeholders/guide-charging-port-clip-back-step-08.png",
+      "warnings": [],
+      "checklist": ["Flex connector is fully seated", "Antenna cable is back on and routed correctly"]
+    },
+    {
+      "number": 9,
+      "title": "Reconnect the battery and test",
+      "body": "Refit the lower cover, then press the battery connector down until it clicks. Power on and test charging, a data connection to a computer, the microphone and mobile signal, before you close the phone.",
+      "image": "placeholders/guide-charging-port-clip-back-step-09.png",
+      "warnings": [],
+      "checklist": ["Phone charges from a cable", "Microphone works", "Mobile signal is normal"]
+    },
+    {
+      "number": 10,
+      "title": "Close the phone",
+      "body": "Power the phone off. Line up the back cover and press around the edges until every clip snaps in. Refit the outer screws and the SIM tray, then do one last charging test.",
+      "image": "placeholders/guide-charging-port-clip-back-step-10.png",
+      "warnings": ["If the cover will not close flat, stop and check for a pinched cable."],
+      "checklist": ["Cover sits flat all the way around", "All screws are back in place", "Phone still charges"]
+    }
+  ]
+}

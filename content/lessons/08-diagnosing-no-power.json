@@ -1,0 +1,54 @@
+{
+  "id": "diagnosing-no-power",
+  "order": 8,
+  "title": "Diagnosing a phone that won't power on",
+  "summary": "A step-by-step way to narrow down why a phone seems dead, and when to stop.",
+  "sections": [
+    {
+      "heading": "Start with the simple things",
+      "body": "Try a charger, cable and outlet you know work, and leave the phone charging for 30 minutes. A very flat battery can take a while to show any sign of life. Then hold the power button for longer than usual, or use the forced restart button combination for that model."
+    },
+    {
+      "heading": "Look for clues",
+      "body": "Ask what happened just before it died, such as a drop, water or a recent repair. Look for any vibration, sound or charging light. Check for bulging, burn marks or bent corners. If you see a swollen battery or burn marks, stop here and take the phone to a shop."
+    },
+    {
+      "heading": "Is it only the screen?",
+      "body": "A phone can be running with a dead display. Listen for sounds and feel for vibration when you plug in the charger. Call the phone from another phone, and connect it to a computer to see if it is detected. If the phone responds, the display is the likely fault and the phone is not really dead."
+    },
+    {
+      "heading": "Open it and measure",
+      "body": "With the battery disconnected, measure the battery voltage with a multimeter, then reseat the battery connector. If you can, try a known good battery made for that model. A USB power meter on the charging cable is also useful. No current at all points to the port or charging path. A very high current straight away can mean a short on the board."
+    },
+    {
+      "heading": "Know when to stop",
+      "body": "A short on the mainboard or corrosion from water usually needs board-level repair. Further attempts can destroy the board and any data on it. Keep your notes and tell the repair shop what you have already tested. A good diagnosis is useful even when you do not finish the repair yourself."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What should you do first with a phone that seems dead?",
+      "options": ["Open it", "Replace the mainboard", "Try a known good charger and cable, and wait", "Replace the screen"],
+      "correctIndex": 2,
+      "explanation": "A flat battery or a bad cable is common, and checking costs nothing."
+    },
+    {
+      "question": "The phone vibrates when you plug it in, but the screen stays black. What does this suggest?",
+      "options": ["The phone is running and the display may be at fault", "The phone is completely dead", "The battery has caught fire", "The charging port is broken"],
+      "correctIndex": 0,
+      "explanation": "Vibration shows that the phone is working, so look at the display and its connection."
+    },
+    {
+      "question": "A USB power meter shows a very high current straight away. What might this mean?",
+      "options": ["The battery is brand new", "The charger is too small", "The cable is too long", "There is a short on the board"],
+      "correctIndex": 3,
+      "explanation": "A sudden high draw can mean a short circuit. That usually needs board-level repair."
+    },
+    {
+      "question": "You find a swollen battery while diagnosing a phone. What should you do?",
+      "options": ["Charge it to test it", "Stop and take the phone to a repair shop", "Press it flat", "Heat it to remove it faster"],
+      "correctIndex": 1,
+      "explanation": "A swollen battery is a fire risk, so stop testing and get it handled safely."
+    }
+  ]
+}

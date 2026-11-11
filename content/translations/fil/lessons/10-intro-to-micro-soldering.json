@@ -1,0 +1,49 @@
+{
+  "id": "intro-to-micro-soldering",
+  "title": "Panimula sa micro-soldering",
+  "summary": "Ano ang micro-soldering, ang mga gamit at kaligtasang kailangan nito, at paano magsimulang magsanay.",
+  "sections": [
+    {
+      "heading": "Ano ang micro-soldering",
+      "body": "Ang micro-soldering ay pag-aayos o pagpapalit ng napakaliliit na piyesa sa circuit board, kadalasang gamit ang microscope. Naaayos nito ang mga problemang hindi kaya ng simpleng pagpapalit ng piyesa, gaya ng sirang charging port na nakahinang sa board. Advanced na kasanayan ito na nangangailangan ng pagsasanay at maraming praktis."
+    },
+    {
+      "heading": "Ang mga kagamitan",
+      "body": "Kasama sa simpleng setup ang soldering iron na nakokontrol ang temperatura at pino ang dulo, hot air station, stereo microscope, flux, manipis na solder, solder wick, pinong tweezers at lalagyan ng board. Kailangan din ng fume extractor. Itakda ang temperatura ayon sa instruksyon para sa solder at kagamitan mo."
+    },
+    {
+      "heading": "Pananatiling ligtas",
+      "body": "Nakakasama ang usok ng solder, kaya gumamit ng fume extractor sa kuwartong mahangin. Maraming solder ang may lead, kaya maghugas ng kamay pagkatapos magtrabaho at ilayo ang pagkain. Puwedeng magdulot ng malubhang paso ang iron, kaya laging ibalik ito sa patungan. Magsuot ng proteksyon sa mata. Tanggalin nang lubos ang baterya sa telepono bago painitin ang board nito."
+    },
+    {
+      "heading": "Pangunahing teknik",
+      "body": "Panatilihing malinis ang dulo at may kaunting solder, na tinatawag na tinning. Tumutulong ang flux para dumaloy ang solder at luminis ang mga dugtong. Painitin nang saglit ang dugtong tapos ilayo, dahil puwedeng matanggal sa board ang mga pad kapag sobra ang init. Gumamit ng solder wick para tanggalin ang sobrang solder."
+    },
+    {
+      "heading": "Paano magsanay",
+      "body": "Magsanay sa mga board mula sa sirang electronics, at huwag kailanman magsimula sa mahalagang telepono. Magsimula sa pagtanggal at pagkabit ng mas malalaking piyesa, tapos lumipat sa mas maliliit. Suriin ang bawat dugtong sa ilalim ng microscope. Pinakamainam na susunod na hakbang ang klase na may gurong makakapagtama ng teknik mo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Saan dapat magsanay ng micro-soldering ang baguhan?",
+      "options": ["Sa telepono ng kaibigan", "Sa mga board mula sa sirang electronics", "Sa sarili niyang ginagamit na telepono", "Sa bagong-bagong telepono"],
+      "explanation": "Sa mga lumang board, puwede kang magkamali nang walang mahalagang masisira."
+    },
+    {
+      "question": "Bakit gumagamit ng fume extractor?",
+      "options": ["Para palamigin ang board", "Para mas mabilis matunaw ang solder", "Dahil nakakasama ang usok ng solder", "Para linisin ang dulo ng iron"],
+      "explanation": "Nakakasamang malanghap ang usok ng solder at flux, kaya alisin ito sa pinagtatrabahuhan."
+    },
+    {
+      "question": "Ano ang dapat mangyari sa baterya bago painitin ang board ng telepono?",
+      "options": ["Dapat itong tanggalin nang lubos", "Dapat itong puno ang karga", "Puwede itong manatiling nakakabit", "Dapat muna itong painitin"],
+      "explanation": "Panganib sa sunog ang init malapit sa lithium battery, kaya tanggalin muna ang baterya."
+    },
+    {
+      "question": "Ano ang puwedeng mangyari kapag masyadong matagal na pinainit ang dugtong?",
+      "options": ["Nagiging flux ang solder", "Tumitibay ang dugtong", "Nanlalabo ang microscope", "Puwedeng matanggal sa board ang mga pad"],
+      "explanation": "Puwedeng makasira ng board ang sobrang init, kaya painitin nang saglit ang bawat dugtong."
+    }
+  ]
+}

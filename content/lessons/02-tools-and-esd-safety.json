@@ -1,0 +1,54 @@
+{
+  "id": "tools-and-esd-safety",
+  "order": 2,
+  "title": "Tools and ESD safety",
+  "summary": "The basic repair toolkit, and how to stop static electricity from damaging parts.",
+  "sections": [
+    {
+      "heading": "The starter toolkit",
+      "body": "Most beginner repairs need a precision screwdriver set, plastic opening picks, a plastic spudger, a suction cup, tweezers, and a tray to keep screws in order. A heat pad or a heat gun on low softens glue. Isopropyl alcohol of 90% or stronger cleans away old adhesive."
+    },
+    {
+      "heading": "Why plastic tools matter",
+      "body": "Metal conducts electricity and scratches easily. A metal tool can short a connector, puncture a battery or tear a flex cable. Plastic tools are much safer around batteries and connectors. Save metal tools for jobs like turning screws."
+    },
+    {
+      "heading": "What ESD is",
+      "body": "ESD stands for electrostatic discharge. It is the same small shock you sometimes feel from a door handle. You often cannot feel a discharge that is still strong enough to damage a chip, and the damage may only show up later."
+    },
+    {
+      "heading": "How to protect the phone",
+      "body": "Work on an anti-static mat and wear a grounded wrist strap when you can. If you do not have one, touch a grounded metal object before touching the board. Avoid carpets and synthetic clothes. Hold boards by their edges, and keep parts on the mat rather than on plastic bags."
+    },
+    {
+      "heading": "Protect yourself too",
+      "body": "Wear safety glasses, especially around glass and springs. Use gloves for broken glass. Work in a well-lit, ventilated place, on a clear table with nothing flammable nearby. Keep food and drinks away from your work."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Why are plastic tools used near batteries and connectors?",
+      "options": ["They are cheaper", "They are less likely to cause shorts or punctures", "They are heavier", "They look neater"],
+      "correctIndex": 1,
+      "explanation": "Plastic does not conduct electricity and is less likely to puncture a battery."
+    },
+    {
+      "question": "What does ESD stand for?",
+      "options": ["Electronic screen display", "Electrostatic discharge", "Extra safe device", "Electric solder draw"],
+      "correctIndex": 1,
+      "explanation": "ESD means electrostatic discharge, a sudden release of static electricity."
+    },
+    {
+      "question": "Can static damage a chip even if you feel nothing?",
+      "options": ["Yes", "No, you always feel it", "Only in wet weather", "Only when the phone is on"],
+      "correctIndex": 0,
+      "explanation": "A discharge too small to feel can still damage a chip, and the fault may appear later."
+    },
+    {
+      "question": "Where is the best place to keep loose parts during a repair?",
+      "options": ["In a plastic bag", "On a carpet", "On an anti-static mat", "In your pocket"],
+      "correctIndex": 2,
+      "explanation": "An anti-static mat protects parts. Plastic bags and carpets can build up static."
+    }
+  ]
+}

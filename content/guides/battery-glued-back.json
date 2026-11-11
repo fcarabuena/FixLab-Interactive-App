@@ -1,0 +1,169 @@
+{
+  "id": "battery-glued-back",
+  "title": "Replace the battery in a glued-back phone",
+  "constructionType": "glued-back",
+  "repairType": "battery",
+  "difficulty": "moderate",
+  "estimatedTime": "1 to 2 hours",
+  "tools": [
+    "Heat pad, or heat gun on its lowest setting",
+    "Suction cup",
+    "Plastic opening picks",
+    "Plastic spudger",
+    "Precision screwdriver set",
+    "Tray or mat to keep screws in order",
+    "Isopropyl alcohol, 90% or stronger",
+    "Safety glasses",
+    "Metal container with dry sand, kept nearby"
+  ],
+  "parts": [
+    "Replacement battery made for your exact phone model",
+    "New back cover adhesive made for your phone",
+    "New battery adhesive strips, if not included with the battery"
+  ],
+  "diyCheck": {
+    "summary": "This is a sample guide for learning the general method on a glued-back phone. Your phone's layout may differ, so also check a guide written for your exact model.",
+    "goToShopIf": [
+      "The battery is swollen or the back is lifting by itself",
+      "The phone has been in water or has burn marks",
+      "The phone was bent or crushed",
+      "The phone holds data you cannot back up",
+      "You do not have a replacement battery made for your exact model",
+      "You do not have a safe, clear place to work"
+    ]
+  },
+  "steps": [
+    {
+      "number": 1,
+      "title": "Prepare the phone and your workspace",
+      "body": "Back up your data. Let the battery run down to below 25%, because a battery with less charge is less dangerous if it gets damaged. Power the phone off fully and unplug it. Clear a table of anything that can burn, and work where you can walk away quickly.",
+      "image": "placeholders/guide-battery-glued-back-step-01.png",
+      "warnings": ["Do not start this repair on a bed, sofa or carpet."],
+      "checklist": [
+        "Data is backed up",
+        "Battery is below 25%",
+        "Phone is powered off and unplugged",
+        "Safety glasses are on and the sand container is nearby"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Warm the back cover",
+      "body": "Warm one edge of the back cover in short passes, keeping the heat moving. The aim is to soften the glue, not to cook the phone. Stop when the glass feels too hot to keep your finger on it, and let it cool a little before heating again.",
+      "image": "placeholders/guide-battery-glued-back-step-02.png",
+      "warnings": [
+        "Too much heat can damage the battery. Keep heat on the edges, away from the center.",
+        "The back cover can burn your skin. Handle it with care."
+      ],
+      "checklist": ["Heat stayed on the edges", "Glue feels softer at the edge"],
+      "diyGate": {
+        "question": "This step uses heat on a phone with a lithium battery inside. Check the phone first.",
+        "stopIf": [
+          "The back is bulging or lifting by itself",
+          "The phone feels hot while switched off",
+          "You can smell a sweet or chemical odor from the phone",
+          "The back glass is badly shattered"
+        ]
+      }
+    },
+    {
+      "number": 3,
+      "title": "Lift the back with a suction cup and pick",
+      "body": "Press the suction cup near the warmed edge and pull up gently to open a tiny gap. Slide a plastic pick into the gap at a shallow angle. Leave the pick in place so the glue does not close the gap again.",
+      "image": "placeholders/guide-battery-glued-back-step-03.png",
+      "warnings": [
+        "Insert the pick only a few millimeters. Deeper can tear cables or puncture the battery.",
+        "Never use a metal tool here."
+      ],
+      "checklist": ["Pick is in the gap", "Pick is only a few millimeters deep"]
+    },
+    {
+      "number": 4,
+      "title": "Cut the glue around the edge",
+      "body": "Slide the pick slowly along each side, adding more picks to hold the seam open. Warm the edges again if the glue gets stiff. Before you lift the back, look for a ribbon cable joining it to the phone. If you see one, do not pull. Open the back only as far as the cable allows.",
+      "image": "placeholders/guide-battery-glued-back-step-04.png",
+      "warnings": ["Stay away from the camera area, where the glass is often thinnest."],
+      "checklist": ["Glue is cut on all sides", "Checked for a cable joining the back to the phone"]
+    },
+    {
+      "number": 5,
+      "title": "Remove the inner cover",
+      "body": "Many phones have a thin plate held by small screws over the mainboard and the battery connector. Remove the screws and keep them in order on your tray, because screws of different lengths can damage the board if they are mixed up. Lift the plate away.",
+      "image": "placeholders/guide-battery-glued-back-step-05.png",
+      "warnings": [],
+      "checklist": ["Screws are laid out in order", "Battery connector is visible"]
+    },
+    {
+      "number": 6,
+      "title": "Disconnect the battery",
+      "body": "Find the small press-on connector that joins the battery to the board. Slide a plastic spudger under the edge of the connector and lift straight up. Bend it slightly away from the socket so it cannot touch again by accident.",
+      "image": "placeholders/guide-battery-glued-back-step-06.png",
+      "warnings": ["Use plastic only. A metal tool can short the connector and cause sparks."],
+      "checklist": ["Connector is unplugged", "Connector cannot spring back onto the socket"]
+    },
+    {
+      "number": 7,
+      "title": "Remove the old battery",
+      "body": "If the battery has pull tabs, pull them slowly and low, almost flat against the phone. If there are no tabs or a tab snaps, put a few drops of isopropyl alcohol along the battery edge, wait a minute, then ease it up with a plastic card. Take your time and lift evenly.",
+      "image": "placeholders/guide-battery-glued-back-step-07.png",
+      "warnings": [
+        "Never bend or dent the battery. Damage may not show right away.",
+        "Never heat the phone directly over the battery to loosen it.",
+        "If the battery hisses, smokes or gets hot, drop it into the sand, move away and let fresh air in. If there is a fire, leave and call emergency services."
+      ],
+      "checklist": ["Battery came out without bending", "Old battery is placed away from anything that can burn"],
+      "diyGate": {
+        "question": "This is the most dangerous step in the repair. Look closely at the battery.",
+        "stopIf": [
+          "The battery looks puffy, dented or punctured",
+          "The battery is hot to the touch",
+          "The pull tabs snapped and the battery will not move with alcohol",
+          "You feel unsure or rushed"
+        ]
+      }
+    },
+    {
+      "number": 8,
+      "title": "Clean the battery bay",
+      "body": "Remove old adhesive with a plastic tool and a little isopropyl alcohol. Let the alcohol dry completely. Check the area for damage, loose debris or any sign of corrosion.",
+      "image": "placeholders/guide-battery-glued-back-step-08.png",
+      "warnings": ["Isopropyl alcohol is flammable. Keep it away from heat tools."],
+      "checklist": ["Bay is clean and dry", "No loose debris left behind"]
+    },
+    {
+      "number": 9,
+      "title": "Fit the new battery",
+      "body": "Inspect the new battery. It should be flat, undamaged and made for your exact phone model. Apply the adhesive strips, line the battery up carefully, then press it down gently and evenly with flat fingers.",
+      "image": "placeholders/guide-battery-glued-back-step-09.png",
+      "warnings": ["Do not fit a battery that is swollen, dented or from an unknown seller."],
+      "checklist": ["New battery looks flat and undamaged", "Battery sits fully inside the bay"]
+    },
+    {
+      "number": 10,
+      "title": "Connect and test before closing",
+      "body": "Press the battery connector straight down until it clicks. Refit the inner cover and its screws in their original places. Power the phone on and check that it starts, charges and shows a sensible battery level. It is much easier to fix a problem now than after sealing the back.",
+      "image": "placeholders/guide-battery-glued-back-step-10.png",
+      "warnings": [],
+      "checklist": ["Phone powers on", "Phone charges from a cable", "All screws are back in place"]
+    },
+    {
+      "number": 11,
+      "title": "Seal the back cover",
+      "body": "Power the phone off. Remove the old glue from the frame and the cover, then apply new adhesive made for your phone. Reconnect any cable going to the back cover, press the cover on evenly, and hold it with clamps or a light, even weight while the adhesive sets.",
+      "image": "placeholders/guide-battery-glued-back-step-11.png",
+      "warnings": [
+        "Do not press hard on the center of the phone.",
+        "After opening, the phone may no longer be water resistant."
+      ],
+      "checklist": ["New adhesive is applied", "Cover sits flat all the way around"]
+    },
+    {
+      "number": 12,
+      "title": "Dispose of the old battery safely",
+      "body": "Cover the old battery's connector with non-conductive tape. Store it in a non-flammable container, away from anything that can burn, until you can drop it off at an e-waste or battery collection point. Many repair shops accept old batteries.",
+      "image": "placeholders/guide-battery-glued-back-step-12.png",
+      "warnings": ["Never put a lithium battery in household trash or a fire."],
+      "checklist": ["Connector is taped", "Old battery is stored safely until drop-off"]
+    }
+  ]
+}

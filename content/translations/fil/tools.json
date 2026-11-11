@@ -1,0 +1,107 @@
+[
+  {
+    "id": "precision-screwdriver",
+    "name": "Set ng precision screwdriver",
+    "description": "Maliliit na screwdriver na napapalitan ang dulo, sa maliliit na sukat at hugis na ginagamit sa telepono.",
+    "usedFor": "Pagtanggal ng maliliit na turnilyo sa loob ng telepono.",
+    "caution": "Gamitin ang dulong eksaktong kasya. Nasisira ng maling dulo ang ulo ng turnilyo."
+  },
+  {
+    "id": "opening-pick",
+    "name": "Plastik na opening pick",
+    "description": "Manipis at nababaluktot na plastik na tatsulok na isinusuksok sa dugtungan ng telepono.",
+    "usedFor": "Paghiwa ng adhesive at pagpapanatiling bukas ng dugtungan.",
+    "caution": "Ilang milimetro lang ang isuksok. Puwedeng nasa mismong gilid ang mga cable at baterya."
+  },
+  {
+    "id": "spudger",
+    "name": "Plastik na spudger",
+    "description": "Patpat na plastik na patag ang dulo, gawa para sa marahang pagsungkit.",
+    "usedFor": "Pag-angat ng mga connector at dahan-dahang paghihiwalay ng mga piyesa.",
+    "caution": "Iangat nang diretso ang mga connector mula sa gilid."
+  },
+  {
+    "id": "suction-cup",
+    "name": "Suction cup",
+    "description": "Maliit na tasang may hawakan na kumakapit sa makinis na salamin.",
+    "usedFor": "Pag-angat ng screen o likod na salamin para magkaroon ng unang maliit na siwang.",
+    "caution": "Hilahin nang dahan-dahan. Kung basag ang salamin, takpan muna ng tape para makakapit ang tasa."
+  },
+  {
+    "id": "tweezers",
+    "name": "ESD-safe na tweezers",
+    "description": "Tweezers na pino ang dulo at gawa para hindi makapasa ng static sa mga piyesa.",
+    "usedFor": "Paghawak ng maliliit na turnilyo, bracket at cable.",
+    "caution": "Huwag idikit ang metal na dulo sa mga pin ng connector o sa baterya."
+  },
+  {
+    "id": "heat-tool",
+    "name": "Heat pad o heat gun",
+    "description": "Pinagmumulan ng init na ginagamit sa pinakamahinang setting para palambutin ang adhesive.",
+    "usedFor": "Pagpapainit ng mga gilid ng nakadikit na likod o screen.",
+    "caution": "Laging igalaw ang init at sa mga gilid lang. Tumigil kapag sobrang init na para hawakan ng daliri."
+  },
+  {
+    "id": "isopropyl-alcohol",
+    "name": "Isopropyl alcohol, 90% o mas matapang",
+    "description": "Alcohol na panlinis na mabilis matuyo at halos walang naiiwan.",
+    "usedFor": "Pagpapaluwag ng adhesive ng baterya at paglilinis ng lumang pandikit.",
+    "caution": "Nasusunog ito. Ilayo sa mga heat tool, at hayaang matuyo nang lubos."
+  },
+  {
+    "id": "screw-tray",
+    "name": "Tray o mat ng turnilyo",
+    "description": "Tray na may mga hati, o mat na may marka, para maayos ang pagkakasunod ng mga piyesa.",
+    "usedFor": "Pagtutugma ng bawat turnilyo sa pinanggalingan nito.",
+    "caution": "Magkakaiba ang haba ng mga turnilyo. Puwedeng tumagos sa board ang mahaba kapag nasa maling butas."
+  },
+  {
+    "id": "anti-static-mat",
+    "name": "Anti-static mat",
+    "description": "Patungan na ligtas na nagpapalabas ng static electricity.",
+    "usedFor": "Ligtas na lugar para sa telepono at maluluwag na piyesa.",
+    "caution": "Ikabit ito sa ground, dahil mas kaunti ang proteksyon kapag hindi."
+  },
+  {
+    "id": "wrist-strap",
+    "name": "Anti-static wrist strap",
+    "description": "Tali sa pulso na may kawad na nakakabit sa ground.",
+    "usedFor": "Pag-iwas sa static sa katawan habang humahawak ng mga board.",
+    "caution": "Dapat nakadikit sa balat ang strap, at nakakabit sa ground ang clip nito."
+  },
+  {
+    "id": "soft-brush",
+    "name": "Malambot na brush",
+    "description": "Maliit na brush na malambot at hindi metal ang hibla.",
+    "usedFor": "Paglilinis ng lint at alikabok sa mga port at board.",
+    "caution": "Huwag kailanman linisin ang port gamit ang aspili, karayom o iba pang metal."
+  },
+  {
+    "id": "packing-tape",
+    "name": "Malinaw na packing tape",
+    "description": "Malapad, matibay at naaaninag na tape.",
+    "usedFor": "Pagdidikit ng basag na salamin habang nag-aayos.",
+    "caution": "Takpan ang bawat basag, at magsuot pa rin ng guwantes."
+  },
+  {
+    "id": "safety-glasses",
+    "name": "Safety glasses",
+    "description": "Malinaw na salamin na nagpoprotekta sa mata laban sa tumatalsik na piraso.",
+    "usedFor": "Bawat repair, lalo na kapag may salamin at spring.",
+    "caution": "Hindi sapat na proteksyon ang karaniwang salamin sa mata."
+  },
+  {
+    "id": "gloves",
+    "name": "Guwantes na hindi madaling mahiwa",
+    "description": "Guwantes na nagpoprotekta sa kamay laban sa matatalim na gilid.",
+    "usedFor": "Paghawak ng basag na screen at likod na salamin.",
+    "caution": "Hubarin ito kapag maselang trabaho sa maliliit na connector."
+  },
+  {
+    "id": "sand-container",
+    "name": "Metal na lalagyan na may tuyong buhangin",
+    "description": "Lugar na hindi nasusunog para sa bateryang nagsisimulang masira.",
+    "usedFor": "Ihanda sa malapit tuwing magtatanggal ng baterya.",
+    "caution": "Ihanda ito bago magsimula, at gamitin lang kung ligtas itong gawin."
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "tools-and-esd-safety",
+  "title": "Mga gamit at kaligtasan sa ESD",
+  "summary": "Ang mga pangunahing gamit sa pag-aayos, at kung paano pipigilan ang static electricity na makasira ng mga piyesa.",
+  "sections": [
+    {
+      "heading": "Ang panimulang toolkit",
+      "body": "Sa karamihan ng panimulang repair, kailangan ang set ng precision screwdriver, plastik na opening pick, plastik na spudger, suction cup, tweezers, at tray para maayos ang mga turnilyo. Pinapalambot ng heat pad o heat gun sa mahinang setting ang pandikit. Ang isopropyl alcohol na 90% o mas matapang ang panlinis ng lumang adhesive."
+    },
+    {
+      "heading": "Bakit mahalaga ang gamit na plastik",
+      "body": "Dumadaloy ang kuryente sa metal at madali itong makagasgas. Ang gamit na metal ay puwedeng maka-short ng connector, makabutas ng baterya o makapunit ng flex cable. Mas ligtas ang gamit na plastik sa paligid ng baterya at mga connector. Ireserba ang gamit na metal sa mga trabahong gaya ng pagpihit ng turnilyo."
+    },
+    {
+      "heading": "Ano ang ESD",
+      "body": "Ang ESD ay electrostatic discharge. Ito rin ang maliit na kuryenteng minsan mong nararamdaman sa hawakan ng pinto. Madalas, hindi mo mararamdaman ang discharge na sapat na ang lakas para makasira ng chip, at baka sa huli na lang lumabas ang sira."
+    },
+    {
+      "heading": "Paano protektahan ang telepono",
+      "body": "Magtrabaho sa anti-static mat at magsuot ng naka-ground na wrist strap kung kaya. Kung wala ka nito, humawak muna sa naka-ground na metal bago hawakan ang board. Umiwas sa carpet at sa damit na synthetic. Hawakan ang mga board sa gilid, at ilagay ang mga piyesa sa mat, hindi sa plastic bag."
+    },
+    {
+      "heading": "Protektahan din ang sarili",
+      "body": "Magsuot ng safety glasses, lalo na kapag may salamin at spring. Gumamit ng guwantes sa basag na salamin. Magtrabaho sa maliwanag at mahanging lugar, sa malinis na mesa na walang madaling masunog sa paligid. Ilayo ang pagkain at inumin sa pinagtatrabahuhan."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Bakit gamit na plastik ang ginagamit malapit sa baterya at mga connector?",
+      "options": ["Mas mura ang mga ito", "Mas maliit ang tsansang magdulot ng short o butas", "Mas mabigat ang mga ito", "Mas maganda ang itsura"],
+      "explanation": "Hindi dumadaloy ang kuryente sa plastik at mas maliit ang tsansang mabutas nito ang baterya."
+    },
+    {
+      "question": "Ano ang ibig sabihin ng ESD?",
+      "options": ["Electronic screen display", "Electrostatic discharge", "Extra safe device", "Electric solder draw"],
+      "explanation": "Ang ESD ay electrostatic discharge, ang biglang paglabas ng static electricity."
+    },
+    {
+      "question": "Puwede bang makasira ng chip ang static kahit wala kang maramdaman?",
+      "options": ["Oo", "Hindi, lagi mo itong mararamdaman", "Kapag basa lang ang panahon", "Kapag naka-on lang ang telepono"],
+      "explanation": "Ang discharge na masyadong mahina para maramdaman ay puwede pa ring makasira ng chip, at baka sa huli na lumabas ang sira."
+    },
+    {
+      "question": "Saan pinakamainam ilagay ang maluluwag na piyesa habang nag-aayos?",
+      "options": ["Sa plastic bag", "Sa carpet", "Sa anti-static mat", "Sa bulsa mo"],
+      "explanation": "Pinoprotektahan ng anti-static mat ang mga piyesa. Puwedeng mag-ipon ng static ang plastic bag at carpet."
+    }
+  ]
+}

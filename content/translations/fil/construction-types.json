@@ -1,0 +1,35 @@
+[
+  {
+    "id": "glued-back",
+    "name": "Nakadikit ang likod",
+    "description": "Likod na salamin o plastik na nakakabit gamit ang matibay na pandikit. Nasa ilalim mismo nito ang baterya at mainboard.",
+    "openingMethod": "Painitin ang mga gilid para lumambot ang pandikit, iangat ang isang sulok gamit ang suction cup, tapos isuksok ang manipis na plastik na pick paikot sa gilid.",
+    "riskNotes": [
+      "Puwedeng mabasag ang likod na salamin habang binubuksan, at matalim ang maiiwang gilid.",
+      "Ang sobrang init ay puwedeng makasira sa baterya at iba pang piyesa.",
+      "Puwedeng mapunit ang manipis na ribbon cable kapag masyadong malalim ang pick."
+    ]
+  },
+  {
+    "id": "clip-back",
+    "name": "Naka-clip ang likod",
+    "description": "Likod na plastik na nakakapit sa maliliit na clip, minsan may ilang turnilyo. Karaniwan ito sa murang telepono.",
+    "openingMethod": "Tanggalin ang mga nakikitang turnilyo, tapos padaanin ang plastik na opening tool sa dugtungan para isa-isang kumalas ang mga clip.",
+    "riskNotes": [
+      "Madaling mabali ang mga clip kapag pinilit.",
+      "May mga turnilyong nakatago sa ilalim ng sticker o ng SIM tray.",
+      "Ang gamit na metal ay puwedeng makagasgas sa case o maka-short ng mga piyesa sa ilalim."
+    ]
+  },
+  {
+    "id": "front-entry",
+    "name": "Sa harap binubuksan",
+    "description": "Screen ang unang natatanggal. Sa harap ng telepono dumadaan para maabot ang baterya at mainboard.",
+    "openingMethod": "Tanggalin ang mga turnilyo sa ibabang gilid kung mayroon, painitin ang mga gilid ng screen, tapos dahan-dahang iangat ang screen nang hindi hinihila ang mga cable nito.",
+    "riskNotes": [
+      "Maiikli ang cable ng display, kaya hindi mabubuksan nang malaki ang screen hangga't hindi natatanggal ang mga ito.",
+      "Screen ang pinakamahal na piyesang puwedeng aksidenteng masira.",
+      "Dapat palitan ang mga waterproof seal kapag isinara ang telepono."
+    ]
+  }
+]

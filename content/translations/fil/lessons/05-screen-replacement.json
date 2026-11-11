@@ -1,0 +1,49 @@
+{
+  "id": "screen-replacement",
+  "title": "Pagpapalit ng screen at LCD",
+  "summary": "Ang mga uri ng screen ng telepono, paano tiyakin ang sira sa screen, at paano ito palitan nang ligtas.",
+  "sections": [
+    {
+      "heading": "LCD at OLED na screen",
+      "body": "May backlight sa likod ng mga pixel ang LCD. Sa OLED, bawat pixel ang gumagawa ng sarili nitong ilaw, kaya walang backlight. Mas manipis ang OLED at mas madaling mabasag. Ang sirang LCD ay madalas may maputlang bahagi o mga guhit. Ang sirang OLED ay madalas may mga itim na bahaging dahan-dahang kumakalat."
+    },
+    {
+      "heading": "Screen ba talaga ang sira?",
+      "body": "Madaling makita ang basag na salamin, pero kailangang pag-isipan ang ibang sira. Kung tumutunog o nagva-vibrate ang telepono habang itim ang screen, malamang na ang display o ang koneksyon nito ang sira. Tumuturo rin sa screen ang touch na hindi gumagana sa isang bahagi. Kung walang kahit anong senyales ng buhay ang telepono, gawin muna ang mga pagsusuri sa kuryente sa aralin 8."
+    },
+    {
+      "heading": "Pagtanggal ng lumang screen",
+      "body": "Sinasabi ng uri ng pagkakagawa kung paano aabutin ang screen. Takpan ng malinaw na tape ang basag na salamin para hindi ito magkahiwa-hiwalay at makakapit ang suction cup. Mga gilid lang ang painitin, panatilihing mababaw ang mga pick, at tandaang maiikli ang mga cable ng display. Tanggalin ang baterya bago humawak ng cable ng display."
+    },
+    {
+      "heading": "Pagpili ng pamalit",
+      "body": "Bumili ng screen na gawa para sa eksaktong modelo mo. Malaki ang pagkakaiba ng kalidad sa bawat nagbebenta. Sa ilang telepono, puwedeng magpakita ng babala ang pamalit na screen o mawalan ng mga feature gaya ng fingerprint reader sa loob ng screen. Alamin muna kung ano ang aasahan sa modelo mo bago bumili."
+    },
+    {
+      "heading": "Subukan, saka isara",
+      "body": "Ikabit muna ang mga cable ng display, saka ang baterya. Tingnan ang larawan, ang liwanag at ang touch sa buong screen bago maglagay ng adhesive. Laging tanggalin ang baterya bago magtanggal ng cable ng display. Baka hindi na water resistant ang teleponong nabuksan na."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Anong uri ng screen ang walang backlight?",
+      "options": ["LCD", "OLED", "Pareho", "Wala sa dalawa"],
+      "explanation": "Bawat pixel ng OLED ang gumagawa ng sarili nitong ilaw, kaya hindi nito kailangan ng backlight."
+    },
+    {
+      "question": "Ano ang dapat gawin sa basag na salamin bago iangat ang screen?",
+      "options": ["Painitin nang todo", "Diinan ang mga basag", "Takpan ng malinaw na tape", "Basain ng tubig"],
+      "explanation": "Pinagdidikit ng tape ang maluluwag na piraso at nagbibigay ng makinis na makakapitan ng suction cup."
+    },
+    {
+      "question": "Tumutunog at nagva-vibrate ang telepono, pero itim ang screen. Ano ang malamang na dahilan?",
+      "options": ["Ang display o ang koneksyon nito", "Ang SIM tray", "Ang speaker", "Ang charging port"],
+      "explanation": "Malinaw na tumatakbo ang telepono, kaya malamang na nasa display o sa connector nito ang sira."
+    },
+    {
+      "question": "Kailan dapat subukan ang bagong screen?",
+      "options": ["Pagkatapos tumigas ng adhesive", "Kapag mukha lang itong may sira", "Ilang araw pagkatapos ng repair", "Bago maglagay ng adhesive"],
+      "explanation": "Kapag sinubukan bago isara, maaayos ang problema nang hindi binubuksan ulit ang telepono."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "battery-and-lithium-safety",
+  "order": 4,
+  "title": "Battery replacement and lithium safety",
+  "summary": "How lithium batteries fail, how to handle them safely, and what to do in an emergency.",
+  "sections": [
+    {
+      "heading": "Why lithium batteries are dangerous",
+      "body": "A phone battery packs a lot of energy into a thin pouch. If the pouch is punctured, crushed, bent or overheated, it can short inside and start a fire that is hard to put out. This can happen minutes after the damage, so a battery that looks fine may not be safe."
+    },
+    {
+      "heading": "Spotting a bad battery",
+      "body": "A failing battery may drain very fast, shut the phone off early or make the phone hot. A swollen battery is the clearest danger sign. It may push the back or the screen away from the frame. Never charge or keep using a swollen battery, and take it to a repair shop instead of opening it yourself."
+    },
+    {
+      "heading": "Handling rules",
+      "body": "Discharge the battery to below 25% before you remove it. Use plastic tools only. Never bend, dent or heat the battery directly. Use the pull tabs slowly, or loosen the adhesive with isopropyl alcohol. Fit only a battery made for your exact model, from a seller you trust."
+    },
+    {
+      "heading": "If something goes wrong",
+      "body": "If a battery hisses, smokes or gets hot, drop it into a metal container of dry sand if you can do it safely. Then move away and let fresh air in, and do not breathe the smoke. If there is a fire, leave the room and call emergency services. Your safety matters more than the phone."
+    },
+    {
+      "heading": "Disposal",
+      "body": "Cover the connector with non-conductive tape. Keep the old battery in a non-flammable container away from anything that can burn, until you can take it to an e-waste or battery collection point. Never put a lithium battery in household trash."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "You notice that a battery is swollen. What should you do?",
+      "options": ["Press it flat", "Keep using it until it stops", "Stop, and take it to a repair shop", "Charge it fully first"],
+      "correctIndex": 2,
+      "explanation": "A swollen battery is a fire risk. Do not charge it, press it or try to remove it yourself."
+    },
+    {
+      "question": "Below what charge level should a battery be before you remove it?",
+      "options": ["25%", "50%", "75%", "100%"],
+      "correctIndex": 0,
+      "explanation": "A battery with less charge holds less energy, so it is less dangerous if it gets damaged."
+    },
+    {
+      "question": "A battery starts to hiss and smoke. What is the right response?",
+      "options": ["Hold it under your face to check it", "Put it in sand if safe, move away and let air in", "Put it in the trash", "Keep working quickly"],
+      "correctIndex": 1,
+      "explanation": "Get distance and fresh air. If there is a fire, leave and call emergency services."
+    },
+    {
+      "question": "How should you get rid of an old lithium battery?",
+      "options": ["Household trash", "Burn it", "Tape the connector and take it to a collection point", "Throw it in a river"],
+      "correctIndex": 2,
+      "explanation": "Lithium batteries can start fires in trash trucks and dumps, so always use a collection point."
+    }
+  ]
+}

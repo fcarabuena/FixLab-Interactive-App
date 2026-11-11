@@ -1,0 +1,11 @@
+{
+  "id": "sample-phone-c",
+  "brand": "Sample Brand",
+  "name": "Sample Phone C — front entry",
+  "constructionType": "front-entry",
+  "difficulty": "hard",
+  "availableRepairs": ["battery", "screen"],
+  "parts": ["display", "battery", "mainboard", "rear-camera", "charging-flex", "back-cover"],
+  "externalLinks": [],
+  "isSample": true
+}

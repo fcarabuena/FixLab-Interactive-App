@@ -1,0 +1,116 @@
+[
+  {
+    "id": "back-cover-shell",
+    "name": "Takip sa likod",
+    "clue": "Ang panlabas na balat na nagpoprotekta sa likod ng telepono.",
+    "fact": "Kailangang painitin muna ang nakadikit na likod bago ito umangat. Sa dugtungan naman kumakalas ang naka-clip na likod."
+  },
+  {
+    "id": "camera-bump",
+    "name": "Umbok ng camera",
+    "clue": "Ang nakaangat na bahagi na may mga lens.",
+    "fact": "Kadalasang pinakamanipis ang salamin malapit sa camera, kaya ilayo rito ang mga pick."
+  },
+  {
+    "id": "side-buttons",
+    "name": "Mga button sa gilid",
+    "clue": "Pinipindot sa gilid para mag-on o magpalit ng volume.",
+    "fact": "Kadalasang nakakabit sa telepono ang mga button sa pamamagitan ng manipis na flex cable, kaya huwag kailanman hilahin ang mga ito."
+  },
+  {
+    "id": "battery-pack",
+    "name": "Baterya",
+    "clue": "Ang malaki at patag na pouch na nag-iimbak ng kuryente ng telepono.",
+    "fact": "Lithium pouch ito. Huwag kailanman baluktutin o butasin, dahil puwede itong magliyab."
+  },
+  {
+    "id": "pull-tabs",
+    "name": "Mga pull tab ng adhesive",
+    "clue": "Maliliit na tab na ginagamit para matanggal ang pandikit sa ilalim ng baterya.",
+    "fact": "Hilahin nang dahan-dahan at pababa, halos nakalapat sa telepono, para hindi maputol."
+  },
+  {
+    "id": "battery-connector",
+    "name": "Connector ng baterya",
+    "clue": "Ang maliit na press-on plug sa dulo ng cable ng baterya.",
+    "fact": "Ito ang unang tinatanggal sa karamihan ng repair. Gamit na plastik lang ang gamitin."
+  },
+  {
+    "id": "mainboard-pcb",
+    "name": "Mainboard",
+    "clue": "Ang malaking berdeng circuit board na kinakabitan ng lahat.",
+    "fact": "Nandito ang processor at memory, at ito ang nag-uugnay sa bawat iba pang piyesa ng telepono."
+  },
+  {
+    "id": "rear-camera-module",
+    "name": "Camera module sa likod",
+    "clue": "Ang madilim na bloke na may bilog na mga lens, malapit sa sulok sa itaas.",
+    "fact": "Nakasaksak ito sa mainboard gamit ang sarili nitong maliit na connector, kaya napapalitan ito."
+  },
+  {
+    "id": "metal-shield",
+    "name": "Metal na shield",
+    "clue": "Pilak na takip sa ibabaw ng maseselang chip.",
+    "fact": "Hinaharangan ng mga shield ang electrical interference. Hayaan lang ang mga ito sa simpleng repair."
+  },
+  {
+    "id": "chip",
+    "name": "Chip",
+    "clue": "Maliit na itim na piyesang nakahinang sa board, at walang pilak na takip.",
+    "fact": "Tinatawag ding integrated circuit ang mga chip. Nakahinang ang mga ito, kaya hindi napapalitan gamit ang mga simpleng gamit."
+  },
+  {
+    "id": "battery-socket",
+    "name": "Socket ng baterya",
+    "clue": "Ang gintong socket sa board na sinasaksakan ng baterya.",
+    "fact": "Idiin nang diretso ang mga connector. Puwedeng mabaluktot ang mga pin ng socket kapag nakatagilid."
+  },
+  {
+    "id": "charging-board",
+    "name": "Charging board",
+    "clue": "Ang maliit na kulay-kahel na board sa ibabang gilid.",
+    "fact": "Sa maraming telepono, hiwalay na piyesa ito na napapalitan gamit ang mga simpleng gamit."
+  },
+  {
+    "id": "charging-port",
+    "name": "Charging port",
+    "clue": "Dito sinasaksak ang charging cable.",
+    "fact": "Laging linisin muna ang lint at sumubok ng ibang cable bago palitan ang port."
+  },
+  {
+    "id": "microphone",
+    "name": "Mikropono",
+    "clue": "Maliit at bilog na piyesa na sumasagap ng boses mo.",
+    "fact": "Madalas itong nasa charging board, kaya puwedeng tumuro rito ang mahinang boses sa tawag."
+  },
+  {
+    "id": "loudspeaker",
+    "name": "Loudspeaker",
+    "clue": "Ang may mga guhit na bahagi na nagpapatunog.",
+    "fact": "Puwedeng humina ang tunog dahil sa alikabok sa mesh, kaya tingnan muna kung marumi bago palitan."
+  },
+  {
+    "id": "flex-cable",
+    "name": "Flex cable",
+    "clue": "Ang mahaba at manipis na ribbon na paakyat sa gilid.",
+    "fact": "Nagdadala ng kuryente at signal ang mga flex cable. Madali itong mapunit, kaya huwag kailanman hilahin."
+  },
+  {
+    "id": "flex-connector",
+    "name": "Flex connector",
+    "clue": "Ang gintong plug sa itaas na dulo ng ribbon.",
+    "fact": "Iangat nang diretso ang mga connector mula sa gilid gamit ang plastik na spudger."
+  },
+  {
+    "id": "display-panel",
+    "name": "Display panel",
+    "clue": "Ang malaking panel na pumupuno sa frame. Ang loob na mukha nito ang nakikita mo.",
+    "fact": "Puwedeng mabasag ang panel kapag nabaluktot, kaya laging suportahan ito kapag hinahawakan."
+  },
+  {
+    "id": "display-connector",
+    "name": "Connector ng display",
+    "clue": "Ang kulay-kahel na dugtungan ng cable sa panel.",
+    "fact": "Laging tanggalin ang baterya bago tanggalin ang cable ng display."
+  }
+]

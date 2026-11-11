@@ -1,0 +1,52 @@
+[
+  {
+    "id": "battery-emergency",
+    "title": "If a battery starts to fail",
+    "summary": "Your safety matters more than the phone.",
+    "rules": [
+      "Warning signs are hissing, smoke, a sweet or chemical smell, or sudden heat.",
+      "If you can do it safely, drop the battery into a metal container of dry sand.",
+      "Move away and let fresh air in. Do not breathe the smoke.",
+      "If there is a fire, leave the room and call emergency services."
+    ]
+  },
+  {
+    "id": "esd",
+    "title": "Static electricity (ESD)",
+    "summary": "Static can damage a chip without you feeling anything, and the fault may only appear later.",
+    "rules": [
+      "Work on an anti-static mat when you can.",
+      "Wear a grounded wrist strap, or touch grounded metal before touching a board.",
+      "Avoid carpets and synthetic clothes while you work.",
+      "Hold boards by their edges.",
+      "Keep loose parts on the mat, not on plastic bags."
+    ]
+  },
+  {
+    "id": "battery",
+    "title": "Lithium battery safety",
+    "summary": "A damaged battery can start a fire, even minutes after the damage.",
+    "rules": [
+      "Let the battery run down to below 25% before you remove it.",
+      "Disconnect the battery before you work on anything else.",
+      "Use plastic tools only around the battery.",
+      "Never puncture, bend, crush or directly heat a battery.",
+      "Never charge or keep using a swollen battery. Take it to a repair shop.",
+      "Fit only a battery made for your exact model, from a seller you trust.",
+      "Tape the old connector and take the battery to an e-waste collection point. Never put it in household trash."
+    ]
+  },
+  {
+    "id": "workspace",
+    "title": "Heat, glass and chemicals",
+    "summary": "Most injuries come from hot surfaces and sharp edges.",
+    "rules": [
+      "Wear safety glasses for every repair.",
+      "Keep heat moving and on the edges of the phone.",
+      "Let heated parts cool before you hold them.",
+      "Wear gloves around broken glass, and wrap old glass before you throw it away.",
+      "Isopropyl alcohol is flammable. Keep it away from heat tools and use it in a ventilated place.",
+      "Work at a clear table, never on a bed, sofa or carpet."
+    ]
+  }
+]

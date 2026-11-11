@@ -1,0 +1,101 @@
+{
+  "id": "charging-port-clip-back",
+  "title": "Palitan ang charging port ng teleponong naka-clip ang likod",
+  "estimatedTime": "45 hanggang 90 minuto",
+  "tools": [
+    "Plastik na opening tool",
+    "Plastik na spudger",
+    "Set ng precision screwdriver",
+    "Tray o mat para maayos ang pagkakasunod ng mga turnilyo",
+    "Malambot na brush",
+    "Safety glasses",
+    "Anti-static mat at wrist strap"
+  ],
+  "parts": ["Pamalit na charging board o flex na gawa para sa eksaktong modelo ng telepono mo"],
+  "diyCheck": {
+    "summary": "Halimbawang gabay ito para matutunan ang pangkalahatang paraan sa teleponong naka-clip ang likod at may hiwalay na charging board. Puwedeng iba ang ayos ng telepono mo, kaya tumingin din ng gabay para sa eksaktong modelo mo.",
+    "goToShopIf": [
+      "Direktang nakahinang sa mainboard ang charging port",
+      "Namamaga ang baterya o kusang umaangat ang likod",
+      "Nabasa ang telepono o may marka ng pagkasunog",
+      "Wala kang pamalit na piyesang gawa para sa eksaktong modelo mo"
+    ]
+  },
+  "steps": [
+    {
+      "title": "Tiyaking port talaga ang problema",
+      "body": "Patayin ang telepono. Sumubok ng charger at cable na alam mong gumagana. Ilawan ang loob ng port at dahan-dahang tanggalin ang lint gamit ang malambot na brush o toothpick na kahoy. Maraming problema sa pag-charge ang natatapos dito, at hindi na kailangang buksan ang telepono.",
+      "warnings": ["Huwag kailanman magpasok ng metal, gaya ng aspili o karayom, sa charging port."],
+      "checklist": ["Nasubukan na ang gumaganang charger at cable", "Malinis na ang port, at naroon pa rin ang sira"]
+    },
+    {
+      "title": "Ihanda ang telepono at ang lugar",
+      "body": "I-back up ang mga file mo. Panatilihing patay at hindi nakasaksak ang telepono. Ilatag ang tray at anti-static mat, at alisin sa mesa ang anumang puwedeng masunog.",
+      "warnings": [],
+      "checklist": ["Na-back up na ang mga file", "Patay at hindi nakasaksak ang telepono", "Suot at naka-ground ang wrist strap"]
+    },
+    {
+      "title": "Tanggalin ang SIM tray at mga turnilyo sa labas",
+      "body": "Alisin ang SIM tray at ang mga nakikitang turnilyo. Tingnan sa ilalim ng mga sticker at rubber plug kung may nakatagong turnilyo. Ilagay nang maayos ang lahat sa tray.",
+      "warnings": [],
+      "checklist": ["Natanggal na ang SIM tray", "Natanggal at nakaayos na ang mga nakikita at nakatagong turnilyo"]
+    },
+    {
+      "title": "Pakawalan ang mga clip",
+      "body": "Isuksok ang plastik na opening tool sa dugtungan at umikot sa telepono para isa-isang kumalas ang mga clip. Makakarinig ka ng maliliit na lagitik. Kung may bahaging ayaw gumalaw, hanapin muna kung may nakaligtaang turnilyo bago lakasan ang puwersa.",
+      "warnings": ["Huwag ipasok nang malalim ang gamit, at huwag kailanman itulak papunta sa baterya."],
+      "checklist": ["Natanggal na ang takip sa likod", "Walang clip na pinilit"]
+    },
+    {
+      "title": "Tanggalin ang connector ng baterya",
+      "body": "Tanggalin ang panloob na platong nakatakip sa connector ng baterya kung mayroon. Iangat nang diretso ang connector gamit ang plastik na spudger, tapos ibaluktot nang kaunti palayo sa socket para hindi na dumikit ulit.",
+      "warnings": ["Plastik lang ang gamitin. Puwedeng ma-short ng gamit na metal ang connector at magdulot ng spark."],
+      "checklist": ["Natanggal na ang connector", "Hindi na babalik ang connector sa socket"],
+      "diyGate": {
+        "question": "Bukas na ang telepono at magtatrabaho ka na malapit sa baterya. Tingnan itong mabuti.",
+        "stopIf": [
+          "Mukhang namamaga, nayupi o nabutas ang baterya",
+          "May nakikita kang kalawang o senyales ng tubig sa loob",
+          "Mainit ang telepono kahit patay"
+        ]
+      }
+    },
+    {
+      "title": "Tanggalin ang takip sa ibaba",
+      "body": "Tanggalin ang turnilyo ng plastik na takip sa ibaba ng telepono at iangat ito. Kadalasang nakalagay dito ang loudspeaker, kaya tandaan kung paano ito nakapuwesto bago galawin.",
+      "warnings": [],
+      "checklist": ["Nakaayos nang sunod-sunod ang mga turnilyo", "Nakikita na ang charging board"]
+    },
+    {
+      "title": "Tanggalin ang lumang charging board",
+      "body": "Kumuha ng litrato para makita kung paano nakadaan ang manipis na antenna cable. Tanggalin ang antenna cable gamit ang spudger, at iangat nang diretso. Tanggalin ang flex na nagkakabit ng charging board sa mainboard, alisin ang mga turnilyo kung mayroon, at iangat ang board.",
+      "warnings": ["Maselan ang connector ng antenna cable. Huwag hilahin ang kawad."],
+      "checklist": ["Nakuhanan ng litrato ang daan ng cable", "Natanggal ang lumang board nang walang napunit na cable"],
+      "diyGate": {
+        "question": "Gagana lang ang gabay na ito kung nasa sarili nitong natatanggal na board ang port.",
+        "stopIf": [
+          "Nakahinang sa mainboard ang port",
+          "Hindi eksaktong kapareho ng luma ang bagong piyesa"
+        ]
+      }
+    },
+    {
+      "title": "Ikabit ang bagong charging board",
+      "body": "Ilagay ang bagong board sa puwesto at ibalik ang mga turnilyo nito. Idiin nang diretso ang flex connector hanggang lumagitik, tapos ikabit ulit ang antenna cable. Idaan ang cable ayon sa nasa litrato mo.",
+      "warnings": [],
+      "checklist": ["Nakasaksak nang husto ang flex connector", "Nakakabit at tama ang daan ng antenna cable"]
+    },
+    {
+      "title": "Ikabit ulit ang baterya at subukan",
+      "body": "Ibalik ang takip sa ibaba, tapos idiin ang connector ng baterya hanggang lumagitik. I-on ang telepono at subukan ang pag-charge, ang koneksyon sa computer, ang mikropono at ang signal, bago isara ang telepono.",
+      "warnings": [],
+      "checklist": ["Nagcha-charge ang telepono sa cable", "Gumagana ang mikropono", "Normal ang signal"]
+    },
+    {
+      "title": "Isara ang telepono",
+      "body": "Patayin ang telepono. Iayos ang takip sa likod at diinan ang paligid hanggang kumapit ang bawat clip. Ibalik ang mga turnilyo sa labas at ang SIM tray, tapos subukan ulit ang pag-charge sa huling pagkakataon.",
+      "warnings": ["Kung hindi lumapat ang takip, tumigil at tingnan kung may naipit na cable."],
+      "checklist": ["Lapat ang takip sa buong paligid", "Naibalik na ang lahat ng turnilyo", "Nagcha-charge pa rin ang telepono"]
+    }
+  ]
+}

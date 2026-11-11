@@ -1,0 +1,45 @@
+{
+  "id": "meet-the-smartphone",
+  "title": "Kilalanin ang smartphone",
+  "summary": "Ano ang nasa loob ng telepono, ano ang gawa ng bawat pangunahing piyesa, at paano ginagawa ang mga telepono.",
+  "sections": [
+    {
+      "heading": "Patong-patong na layer",
+      "body": "Ang smartphone ay patong-patong na piyesa na siksik sa loob ng frame. Mula sa likod, kadalasang makikita ang takip sa likod, tapos ang baterya at mainboard na magkatabi, at ang display sa kabilang panig. Mga manipis na ribbon cable, na tinatawag na flex cable, ang nag-uugnay sa lahat."
+    },
+    {
+      "heading": "Ang mga pangunahing piyesa",
+      "body": "Nag-iimbak ng kuryente ang baterya. Nasa mainboard ang processor at memory, at ito ang nag-uugnay sa bawat iba pang piyesa. Ang display ang nagpapakita ng larawan at nakakaramdam ng touch. Ang charging port ang nagpapasok ng kuryente, at kadalasang nasa sarili itong maliit na board o flex cable. Nakasaksak ang mga camera, speaker at mikropono sa iba pang bahagi gamit ang maliliit na press-on connector."
+    },
+    {
+      "heading": "Tatlong paraan ng paggawa ng telepono",
+      "body": "Iisa ang paraan ng pag-aayos sa bawat uri ng pagkakagawa. Ang teleponong nakadikit ang likod ay may likod na nakakabit gamit ang adhesive. Ang teleponong naka-clip ang likod ay may plastik na likod na nakakapit sa mga clip at minsan sa mga turnilyo. Ang teleponong sa harap binubuksan ay inuunang tanggalin ang screen. Kapag alam mo ang uri, alam mo na kung paano magsisimula."
+    },
+    {
+      "heading": "Itugma ang sintomas sa piyesa",
+      "body": "Nagsisimula ang mahusay na pag-aayos sa maingat na pag-iisip. Ang teleponong mabilis maubusan ng karga ay tumuturo sa baterya. Ang mga guhit sa larawan ay tumuturo sa display. Ang teleponong nagcha-charge lang sa isang anggulo ng cable ay tumuturo sa charging port. Laging tingnan muna ang mga simpleng dahilan, gaya ng sirang cable o lint sa port."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Aling piyesa ang nag-uugnay sa lahat ng iba pang piyesa ng telepono?",
+      "options": ["Ang takip sa likod", "Ang mainboard", "Ang speaker", "Ang SIM tray"],
+      "explanation": "Nasa mainboard ang processor at memory, at dito nakakabit ang bawat iba pang piyesa."
+    },
+    {
+      "question": "Paano sinisimulang buksan ang teleponong sa harap binubuksan?",
+      "options": ["Tanggalin ang takip sa likod", "Tanggalin ang baterya", "Unahing tanggalin ang screen", "Pakawalan ang mga clip sa gilid"],
+      "explanation": "Sa ganitong telepono, naaabot ang baterya at mainboard sa pamamagitan ng pagtanggal ng screen."
+    },
+    {
+      "question": "Nagcha-charge lang ang telepono kapag nakahawak ang cable sa isang anggulo. Ano ang dapat paghinalaan?",
+      "options": ["Ang display", "Ang camera", "Ang charging port o cable", "Ang memory ng mainboard"],
+      "explanation": "Ang koneksyong nakadepende sa anggulo ay tumuturo sa cable o port. Tingnan muna kung may lint at sumubok ng ibang cable."
+    },
+    {
+      "question": "Ano ang mga flex cable?",
+      "options": ["Manipis na ribbon na nag-uugnay sa mga piyesa", "Mga charging cable na sinasaksak sa pader", "Mga spring na humahawak sa baterya", "Mga antenna para sa Wi-Fi lang"],
+      "explanation": "Ang flex cable ay manipis na ribbon na nagdadala ng kuryente at signal sa pagitan ng mga piyesa."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "reading-circuit-diagrams",
+  "order": 9,
+  "title": "Reading basic circuit diagrams",
+  "summary": "The common symbols and labels, and how to follow power through a diagram.",
+  "sections": [
+    {
+      "heading": "Block diagrams and schematics",
+      "body": "A block diagram shows the big picture, with each main section drawn as a box. A schematic shows every part and connection. A schematic shows how parts are wired together, not where they sit on the board. A separate board layout shows their physical positions."
+    },
+    {
+      "heading": "Common symbols",
+      "body": "These are the symbols you will meet most often. A resistor limits current, and some diagrams draw it as a small box. A capacitor stores a little charge and smooths voltage. An inductor resists changes in current. A diode lets current pass one way. Ground is the shared return path. A test point is a spot made for probing.",
+      "diagram": "circuit-symbols"
+    },
+    {
+      "heading": "Names and labels",
+      "body": "Each part has a letter and a number. R is a resistor, C is a capacitor, L is an inductor and D is a diode. U usually marks a chip, also called an integrated circuit. Lines also carry names. VBAT often means battery voltage and GND means ground. Two lines with the same name are connected, even if no line joins them on the page."
+    },
+    {
+      "heading": "Following a power path",
+      "body": "Start at the source and follow the line one part at a time. Battery power usually enters through the battery connector and reaches a power management chip. That chip makes the smaller voltages, often called rails, that the rest of the phone uses. If a rail is missing, you can trace back to find where it stops."
+    },
+    {
+      "heading": "Where diagrams come from",
+      "body": "FixLab does not include diagrams of real phones. Schematics are made for one exact model and board version, so a diagram for a similar phone can mislead you. Use only material you are allowed to use, and check that it matches your exact board."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What does a schematic show?",
+      "options": ["How parts are wired together", "Where to buy parts", "The color of each part", "The size of the phone"],
+      "correctIndex": 0,
+      "explanation": "A schematic shows the connections. A board layout shows the physical positions."
+    },
+    {
+      "question": "On a diagram, what does the letter U usually mark?",
+      "options": ["A resistor", "A capacitor", "A chip or integrated circuit", "A test point"],
+      "correctIndex": 2,
+      "explanation": "R, C, L and D mark simple parts, and U usually marks an integrated circuit."
+    },
+    {
+      "question": "Two separate lines on a page have the same name. What does that mean?",
+      "options": ["One of them is a mistake", "They carry opposite signals", "They are on different boards", "They are connected"],
+      "correctIndex": 3,
+      "explanation": "Diagrams use matching names to show a connection without drawing a long line."
+    },
+    {
+      "question": "Which part lets current pass in only one direction?",
+      "options": ["A resistor", "A diode", "A capacitor", "An inductor"],
+      "correctIndex": 1,
+      "explanation": "A diode passes current in one direction and blocks it in the other."
+    }
+  ]
+}

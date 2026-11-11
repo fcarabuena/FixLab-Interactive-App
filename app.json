@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "FixLab",
+    "slug": "fixlab",
+    "version": "1.0.0",
+    "scheme": "fixlab",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FAF5EC",
+    "android": {
+      "package": "com.CHANGE_ME.fixlab",
+      "adaptiveIcon": {
+        "backgroundColor": "#C8440A",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-icon.png",
+          "imageWidth": 200,
+          "backgroundColor": "#FAF5EC"
+        }
+      ],
+      "expo-status-bar",
+      "expo-web-browser",
+      "expo-font",
+      "expo-localization"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "multimeter-basics",
+  "title": "Mga batayan ng multimeter",
+  "summary": "Ano ang sinusukat ng multimeter, paano ito gamitin nang ligtas, at paano basahin ang resulta.",
+  "sections": [
+    {
+      "heading": "Ano ang ginagawa ng multimeter",
+      "body": "Ang multimeter ang pangunahing panukat sa pag-aayos ng electronics. Sinusukat nito ang boltahe, o ang lakas ng tulak ng kuryente. Sinusukat din nito ang resistance, o kung gaano kinokontra ng piyesa ang daloy ng kuryente. Tumutunog ang continuity mode kapag magkakonekta ang dalawang punto. Sinusuri ng diode mode ang mga piyesang dapat isang direksyon lang ang daloy ng kuryente."
+    },
+    {
+      "heading": "Ligtas na paggamit",
+      "body": "Isaksak ang itim na probe sa COM at ang pulang probe sa socket para sa boltahe. Piliin muna ang mode bago idikit ang mga probe sa kahit ano. Sukatin lang ang continuity, resistance at diode kapag walang kuryente at nakatanggal ang baterya. Huwag kailanman ilagay ang meter sa current mode nang nakatapat sa baterya, dahil direktang short ang mangyayari. Puwedeng dumulas ang pinong dulo ng probe at magdugtong ng dalawang pad, kaya panatilihing matatag ang mga kamay."
+    },
+    {
+      "heading": "Pagsukat ng boltahe",
+      "body": "DC voltage mode ang gamitin sa telepono. Idikit ang mga probe sa positive at negative na contact ng baterya. Karaniwang nasa pagitan ng mga 3.0 at mga 4.4 volts ang baterya ng telepono, depende sa karga nito. Mga 5 volts ang ibinibigay ng USB charger. Lubos nang naubos ang bateryang malayo ang baba sa saklaw na ito, at dapat itong palitan, hindi buhayin."
+    },
+    {
+      "heading": "Pagsuri ng continuity",
+      "body": "Sinasabi ng continuity mode kung buo ang daanan. Kapaki-pakinabang ito sa pagsuri ng mga cable, flex line at fuse. Ibig sabihin ng tunog ay magkakonekta ang dalawang punto. Kapag walang tunog sa daanang dapat magkakonekta, posibleng may putol."
+    },
+    {
+      "heading": "Pag-unawa sa mga sukat",
+      "body": "Kaunti lang ang sinasabi ng iisang numero. Ikumpara ang sukat mo sa gumaganang piyesa o sa mapagkakatiwalaang reference para sa eksaktong modelong iyon, at ulitin ang pagsukat para matiyak. Isa-isa lang ang babaguhin, at isulat ang mga nakita mo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Saang socket isinasaksak ang itim na probe?",
+      "options": ["COM", "Sa socket ng boltahe", "Sa socket ng current", "Kahit alin"],
+      "explanation": "Laging sa common socket, na may markang COM, isinasaksak ang itim na probe."
+    },
+    {
+      "question": "Kailan dapat sukatin ang continuity sa board?",
+      "options": ["Habang nagcha-charge ang telepono", "Habang naka-on ang telepono", "Kapag walang kuryente at nakatanggal ang baterya", "Kapag mainit lang ang board"],
+      "explanation": "Maaasahan at ligtas lang ang pagsukat ng continuity at resistance sa circuit na walang kuryente."
+    },
+    {
+      "question": "Alin dito ang hindi kailanman dapat gawin?",
+      "options": ["Piliin muna ang mode bago sumukat", "Ilagay ang meter sa current mode nang nakatapat sa baterya", "Ulitin ang pagsukat", "Ikumpara sa gumaganang piyesa"],
+      "explanation": "Sa current mode, halos parang kawad lang ang meter, kaya direkta nitong isho-short ang baterya."
+    },
+    {
+      "question": "Ano ang ibig sabihin ng tunog sa continuity mode?",
+      "options": ["Puno ang baterya", "Sira ang meter", "Nag-o-overheat ang piyesa", "Magkakonekta ang dalawang punto"],
+      "explanation": "Tumutunog ang meter kapag may buong daanan sa pagitan ng dalawang probe."
+    }
+  ]
+}

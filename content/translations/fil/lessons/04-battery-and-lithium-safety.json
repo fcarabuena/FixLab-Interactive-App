@@ -1,0 +1,49 @@
+{
+  "id": "battery-and-lithium-safety",
+  "title": "Pagpapalit ng baterya at kaligtasan sa lithium",
+  "summary": "Paano nasisira ang lithium battery, paano ito hawakan nang ligtas, at ano ang gagawin sa emergency.",
+  "sections": [
+    {
+      "heading": "Bakit mapanganib ang lithium battery",
+      "body": "Maraming enerhiya ang nasa manipis na pouch ng baterya ng telepono. Kapag nabutas, nadurog, nabaluktot o nag-overheat ang pouch, puwede itong mag-short sa loob at magsimula ng sunog na mahirap apulain. Puwede itong mangyari ilang minuto pagkatapos masira, kaya baka hindi ligtas ang bateryang mukhang maayos."
+    },
+    {
+      "heading": "Paano makikilala ang sirang baterya",
+      "body": "Ang sirang baterya ay puwedeng mabilis maubos, maagang magpatay ng telepono o magpainit nito. Ang namamagang baterya ang pinakamalinaw na senyales ng panganib. Puwede nitong itulak ang likod o ang screen palayo sa frame. Huwag kailanman i-charge o ipagpatuloy ang paggamit ng namamagang baterya, at dalhin ito sa repair shop imbes na ikaw mismo ang magbukas."
+    },
+    {
+      "heading": "Mga patakaran sa paghawak",
+      "body": "Pababain ang karga ng baterya sa ilalim ng 25% bago ito tanggalin. Gamit na plastik lang ang gamitin. Huwag kailanman baluktutin, yupiin o direktang painitin ang baterya. Dahan-dahang gamitin ang mga pull tab, o paluwagin ang adhesive gamit ang isopropyl alcohol. Bateryang gawa lang para sa eksaktong modelo mo ang ikabit, mula sa nagbebentang pinagkakatiwalaan mo."
+    },
+    {
+      "heading": "Kung may mangyaring masama",
+      "body": "Kung sumisirit, umuusok o umiinit ang baterya, ihulog ito sa metal na lalagyan ng tuyong buhangin kung ligtas itong gawin. Tapos lumayo at papasukin ang sariwang hangin, at huwag langhapin ang usok. Kung may sunog, lumabas ng kuwarto at tumawag sa emergency services. Mas mahalaga ang kaligtasan mo kaysa sa telepono."
+    },
+    {
+      "heading": "Pagtatapon",
+      "body": "Takpan ang connector ng tape na hindi dumadaloy ang kuryente. Ilagay ang lumang baterya sa lalagyang hindi nasusunog at malayo sa anumang puwedeng masunog, hanggang madala mo sa collection point ng e-waste o baterya. Huwag kailanman itapon ang lithium battery sa basurahan sa bahay."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Napansin mong namamaga ang baterya. Ano ang dapat gawin?",
+      "options": ["Diinan para pumatag", "Gamitin lang hanggang tumigil", "Tumigil, at dalhin sa repair shop", "I-full charge muna"],
+      "explanation": "Panganib sa sunog ang namamagang baterya. Huwag itong i-charge, diinan o ikaw mismo ang magtanggal."
+    },
+    {
+      "question": "Dapat nasa ilalim ng anong karga ang baterya bago ito tanggalin?",
+      "options": ["25%", "50%", "75%", "100%"],
+      "explanation": "Mas kaunti ang enerhiya ng bateryang kaunti ang karga, kaya mas hindi ito mapanganib kapag nasira."
+    },
+    {
+      "question": "Nagsimulang sumirit at umusok ang baterya. Ano ang tamang gawin?",
+      "options": ["Ilapit sa mukha para tingnan", "Ilagay sa buhangin kung ligtas, lumayo at magpapasok ng hangin", "Itapon sa basurahan", "Ituloy nang mabilis ang trabaho"],
+      "explanation": "Lumayo at kumuha ng sariwang hangin. Kung may sunog, lumabas at tumawag sa emergency services."
+    },
+    {
+      "question": "Paano dapat itapon ang lumang lithium battery?",
+      "options": ["Sa basurahan sa bahay", "Sunugin", "Lagyan ng tape ang connector at dalhin sa collection point", "Itapon sa ilog"],
+      "explanation": "Puwedeng magsimula ng sunog ang lithium battery sa mga trak ng basura at tambakan, kaya laging gumamit ng collection point."
+    }
+  ]
+}

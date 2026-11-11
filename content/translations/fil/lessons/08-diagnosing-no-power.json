@@ -1,0 +1,49 @@
+{
+  "id": "diagnosing-no-power",
+  "title": "Pag-alam kung bakit ayaw mag-on ng telepono",
+  "summary": "Paisa-isang paraan para matukoy kung bakit parang patay ang telepono, at kung kailan titigil.",
+  "sections": [
+    {
+      "heading": "Magsimula sa mga simpleng bagay",
+      "body": "Sumubok ng charger, cable at saksakan na alam mong gumagana, at hayaang mag-charge ang telepono nang 30 minuto. Puwedeng matagalan bago magpakita ng buhay ang bateryang ubos na ubos. Pagkatapos, pindutin nang mas matagal kaysa karaniwan ang power button, o gamitin ang kombinasyon ng button para sa forced restart ng modelong iyon."
+    },
+    {
+      "heading": "Maghanap ng mga palatandaan",
+      "body": "Alamin kung ano ang nangyari bago ito namatay, gaya ng pagkahulog, pagkabasa o kamakailang repair. Tingnan kung may vibration, tunog o ilaw ng pag-charge. Suriin kung may umbok, marka ng pagkasunog o baluktot na sulok. Kung may namamagang baterya o marka ng pagkasunog, tumigil na at dalhin ang telepono sa shop."
+    },
+    {
+      "heading": "Screen lang ba ang sira?",
+      "body": "Puwedeng tumatakbo ang telepono kahit patay ang display. Makinig kung may tunog at damhin kung may vibration kapag isinaksak ang charger. Tawagan ang telepono mula sa ibang telepono, at ikabit sa computer para makita kung nade-detect ito. Kung sumasagot ang telepono, malamang na display ang sira at hindi talaga patay ang telepono."
+    },
+    {
+      "heading": "Buksan at sukatin",
+      "body": "Habang nakatanggal ang baterya, sukatin ang boltahe nito gamit ang multimeter, tapos ikabit ulit nang maayos ang connector ng baterya. Kung kaya, sumubok ng gumaganang bateryang gawa para sa modelong iyon. Kapaki-pakinabang din ang USB power meter sa charging cable. Kapag walang kuryenteng dumadaloy, tumuturo ito sa port o sa daanan ng pag-charge. Kapag napakataas agad ng kuryente, posibleng may short sa board."
+    },
+    {
+      "heading": "Alamin kung kailan titigil",
+      "body": "Kadalasang kailangan ng board-level repair ang short sa mainboard o kalawang dahil sa tubig. Puwedeng masira ang board at ang mga file sa loob nito kapag ipinagpatuloy pa. Itago ang mga tala mo at sabihin sa repair shop ang mga nasubukan mo na. Kapaki-pakinabang ang mahusay na pagsusuri kahit hindi ikaw ang tumapos ng repair."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Ano ang unang dapat gawin sa teleponong parang patay?",
+      "options": ["Buksan ito", "Palitan ang mainboard", "Sumubok ng gumaganang charger at cable, at maghintay", "Palitan ang screen"],
+      "explanation": "Karaniwan ang ubos na baterya o sirang cable, at walang gastos ang pagsuri nito."
+    },
+    {
+      "question": "Nagva-vibrate ang telepono kapag isinaksak, pero itim ang screen. Ano ang ipinapahiwatig nito?",
+      "options": ["Tumatakbo ang telepono at baka display ang sira", "Patay na patay ang telepono", "Nasusunog ang baterya", "Sira ang charging port"],
+      "explanation": "Ipinapakita ng vibration na gumagana ang telepono, kaya tingnan ang display at ang koneksyon nito."
+    },
+    {
+      "question": "Napakataas agad ng kuryenteng ipinapakita ng USB power meter. Ano ang posibleng ibig sabihin nito?",
+      "options": ["Bagong-bago ang baterya", "Masyadong maliit ang charger", "Masyadong mahaba ang cable", "May short sa board"],
+      "explanation": "Puwedeng short circuit ang biglang mataas na kuryente. Kadalasang kailangan nito ng board-level repair."
+    },
+    {
+      "question": "May nakita kang namamagang baterya habang sinusuri ang telepono. Ano ang dapat gawin?",
+      "options": ["I-charge para masubukan", "Tumigil at dalhin ang telepono sa repair shop", "Diinan para pumatag", "Painitin para mas mabilis matanggal"],
+      "explanation": "Panganib sa sunog ang namamagang baterya, kaya itigil ang pagsusuri at ipaasikaso ito nang ligtas."
+    }
+  ]
+}

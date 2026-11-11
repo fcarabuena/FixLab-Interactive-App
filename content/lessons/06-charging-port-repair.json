@@ -1,0 +1,54 @@
+{
+  "id": "charging-port-repair",
+  "order": 6,
+  "title": "Charging port repair",
+  "summary": "How to tell a bad port from a dirty one, and what a port replacement involves.",
+  "sections": [
+    {
+      "heading": "Signs of a port problem",
+      "body": "A failing port may only charge when the cable is held at an angle. Charging may be very slow, or the computer may not detect the phone. If wireless charging works but cable charging does not, the battery is probably fine and the port is the likely fault."
+    },
+    {
+      "heading": "Clean it first",
+      "body": "Pockets fill ports with lint, and packed lint stops the plug from seating. Power the phone off, shine a light into the port, and gently lift the lint out with a soft brush or wooden toothpick. Try a charger and cable you know work. Many port problems end here."
+    },
+    {
+      "heading": "Two kinds of port",
+      "body": "On many phones, the port sits on a small separate board or flex cable that can be swapped with basic tools. On others, it is soldered directly to the mainboard. A soldered port needs micro-soldering skills, so a beginner should take that phone to a shop."
+    },
+    {
+      "heading": "Making the swap",
+      "body": "Disconnect the battery first. Photograph how the thin antenna cables are routed before you move them, because they often pass over the charging board. Lift connectors straight up, and never pull on a wire. Fit the new part and route each cable exactly as it was."
+    },
+    {
+      "heading": "Testing the result",
+      "body": "Test charging, a data connection to a computer, the microphone and mobile signal before you close the phone. Weak signal after this repair usually means an antenna cable is loose. Never charge a phone that may be wet, because water in the port can cause corrosion and shorts."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A phone will not charge from a cable. What should you try first?",
+      "options": ["Clean the port and try a known good cable", "Replace the mainboard", "Replace the battery", "Heat the port"],
+      "correctIndex": 0,
+      "explanation": "Lint and bad cables are common and cheap to rule out, so always check them first."
+    },
+    {
+      "question": "The charging port is soldered to the mainboard. What should a beginner do?",
+      "options": ["Pull the port off", "Glue the port in place", "Take the phone to a repair shop", "Heat the board with a heat gun"],
+      "correctIndex": 2,
+      "explanation": "A soldered port needs micro-soldering skills and equipment."
+    },
+    {
+      "question": "Why take a photo before moving the antenna cables?",
+      "options": ["For the warranty", "So you can route them back the same way", "To check the camera works", "To measure the voltage"],
+      "correctIndex": 1,
+      "explanation": "Antenna cables must follow their original path, or signal can suffer and cables can get pinched."
+    },
+    {
+      "question": "Mobile signal is weak after a port replacement. What is the likely cause?",
+      "options": ["A dirty screen", "A worn battery", "The wrong charger", "A loose antenna cable"],
+      "correctIndex": 3,
+      "explanation": "Antenna cables are often moved during this repair, and a loose one weakens the signal."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "back-cover",
+    "name": "Back cover",
+    "layer": "back-cover",
+    "description": "The outer shell on the back of the phone. It protects the inside and, on many phones, helps keep water and dust out.",
+    "commonSymptoms": [
+      "Cracked or shattered back",
+      "Back lifting away from the frame, which can mean a swollen battery",
+      "Rattling or a loose corner"
+    ],
+    "tools": ["Heat pad or heat gun on low", "Suction cup", "Plastic opening picks"],
+    "safetyNotes": [
+      "Wear eye protection. Glass can break suddenly while you pry.",
+      "If the back is lifting by itself, stop and check for a swollen battery."
+    ]
+  },
+  {
+    "id": "battery",
+    "name": "Battery",
+    "layer": "battery",
+    "description": "A flat lithium-ion pouch that stores the phone's power. It connects to the mainboard through a small press-on connector.",
+    "commonSymptoms": [
+      "Battery drains very quickly",
+      "Phone shuts off with charge still showing",
+      "Battery or back of the phone looks swollen",
+      "Phone gets hot while charging"
+    ],
+    "tools": ["Plastic spudger", "Isopropyl alcohol, 90% or stronger", "Plastic card"],
+    "safetyNotes": [
+      "Never puncture, bend or crush a battery. It can catch fire.",
+      "Never use metal tools to pry a battery.",
+      "Never reuse or keep charging a swollen battery."
+    ]
+  },
+  {
+    "id": "mainboard",
+    "name": "Mainboard",
+    "layer": "mainboard",
+    "description": "The main circuit board. It holds the processor, memory and the connectors that link every other part together.",
+    "commonSymptoms": [
+      "Phone will not turn on, even with a good battery",
+      "Random restarts",
+      "No signal or no Wi-Fi after a drop or water damage"
+    ],
+    "tools": ["Precision screwdriver set", "Plastic spudger", "ESD-safe tweezers", "Anti-static mat and wrist strap"],
+    "safetyNotes": [
+      "Disconnect the battery before touching the board.",
+      "Static electricity can damage chips, so ground yourself first."
+    ]
+  },
+  {
+    "id": "rear-camera",
+    "name": "Rear camera",
+    "layer": "mainboard",
+    "description": "The camera module on the back of the phone. It plugs into the mainboard with its own small connector.",
+    "commonSymptoms": ["Blurry photos", "Camera app shows a black screen", "Spots that appear in every photo"],
+    "tools": ["Plastic spudger", "ESD-safe tweezers", "Microfiber cloth"],
+    "safetyNotes": [
+      "Do not touch the lens with bare fingers.",
+      "Keep heat away from the camera area."
+    ]
+  },
+  {
+    "id": "charging-flex",
+    "name": "Charging flex",
+    "layer": "charging-flex",
+    "description": "A thin ribbon or small board that carries the charging port, and often the microphone. A long flex cable links it to the mainboard.",
+    "commonSymptoms": [
+      "Phone only charges at a certain cable angle",
+      "Charging is very slow",
+      "Computer does not detect the phone",
+      "Microphone sounds faint in calls"
+    ],
+    "tools": ["Plastic spudger", "Precision screwdriver set", "Soft brush for cleaning the port"],
+    "safetyNotes": [
+      "Disconnect the battery first.",
+      "Check for lint in the port before replacing anything. Clean it with a non-metal tool."
+    ]
+  },
+  {
+    "id": "display",
+    "name": "Display",
+    "layer": "display",
+    "description": "The screen assembly, which combines the glass, the touch layer and the panel that makes the picture. This view shows its inside face.",
+    "commonSymptoms": [
+      "Cracked glass",
+      "Black patches or colored lines",
+      "Touch does not respond in some areas",
+      "Screen stays black but the phone still makes sounds"
+    ],
+    "tools": ["Heat pad or heat gun on low", "Suction cup", "Plastic opening picks", "Replacement adhesive"],
+    "safetyNotes": [
+      "Cracked glass is sharp. Wear gloves and eye protection.",
+      "Do not bend the panel or pull on its cable."
+    ]
+  }
+]

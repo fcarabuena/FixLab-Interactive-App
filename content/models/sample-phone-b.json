@@ -1,0 +1,11 @@
+{
+  "id": "sample-phone-b",
+  "brand": "Sample Brand",
+  "name": "Sample Phone B — clip back",
+  "constructionType": "clip-back",
+  "difficulty": "easy",
+  "availableRepairs": ["battery", "charging-port"],
+  "parts": ["back-cover", "battery", "mainboard", "rear-camera", "charging-flex", "display"],
+  "externalLinks": [],
+  "isSample": true
+}

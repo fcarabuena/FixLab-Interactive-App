@@ -1,0 +1,49 @@
+{
+  "id": "reading-circuit-diagrams",
+  "title": "Pagbasa ng mga simpleng circuit diagram",
+  "summary": "Ang mga karaniwang simbolo at label, at kung paano sundan ang kuryente sa diagram.",
+  "sections": [
+    {
+      "heading": "Block diagram at schematic",
+      "body": "Ipinapakita ng block diagram ang kabuuan, na kahon ang bawat pangunahing bahagi. Ipinapakita ng schematic ang bawat piyesa at koneksyon. Ipinapakita ng schematic kung paano magkakakabit ang mga piyesa, hindi kung saan sila nakalagay sa board. Hiwalay na board layout ang nagpapakita ng aktuwal nilang puwesto."
+    },
+    {
+      "heading": "Mga karaniwang simbolo",
+      "body": "Ito ang mga simbolong madalas mong makikita. Nililimitahan ng resistor ang daloy ng kuryente, at maliit na kahon ang guhit nito sa ilang diagram. Nag-iimbak ng kaunting karga ang capacitor at pinapakinis nito ang boltahe. Kinokontra ng inductor ang pagbabago ng daloy ng kuryente. Isang direksyon lang ang pinapadaan ng diode. Ground ang pinagsasaluhang daanang pabalik. Ang test point ay lugar na ginawa para sa pagsukat."
+    },
+    {
+      "heading": "Mga pangalan at label",
+      "body": "May letra at numero ang bawat piyesa. Resistor ang R, capacitor ang C, inductor ang L at diode ang D. Kadalasang chip ang markang U, na tinatawag ding integrated circuit. May mga pangalan din ang mga linya. Kadalasang boltahe ng baterya ang VBAT at ground ang GND. Magkakonekta ang dalawang linyang magkapareho ang pangalan, kahit walang linyang nagdurugtong sa kanila sa pahina."
+    },
+    {
+      "heading": "Pagsunod sa daanan ng kuryente",
+      "body": "Magsimula sa pinagmumulan at sundan ang linya nang paisa-isang piyesa. Kadalasang pumapasok ang kuryente ng baterya sa connector ng baterya at umaabot sa power management chip. Ang chip na iyon ang gumagawa ng mas maliliit na boltahe, na madalas tawaging rail, na ginagamit ng iba pang bahagi ng telepono. Kapag may nawawalang rail, puwede mong sundan pabalik para makita kung saan ito humihinto."
+    },
+    {
+      "heading": "Saan galing ang mga diagram",
+      "body": "Walang diagram ng totoong telepono sa FixLab. Ginagawa ang mga schematic para sa iisang eksaktong modelo at bersyon ng board, kaya puwede kang malito sa diagram ng katulad na telepono. Gamitin lang ang mga materyal na pinapayagan kang gamitin, at tiyaking tugma ito sa eksaktong board mo."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Ano ang ipinapakita ng schematic?",
+      "options": ["Kung paano magkakakabit ang mga piyesa", "Kung saan bibili ng piyesa", "Ang kulay ng bawat piyesa", "Ang laki ng telepono"],
+      "explanation": "Mga koneksyon ang ipinapakita ng schematic. Aktuwal na puwesto naman ang ipinapakita ng board layout."
+    },
+    {
+      "question": "Sa diagram, ano ang kadalasang minamarkahan ng letrang U?",
+      "options": ["Resistor", "Capacitor", "Chip o integrated circuit", "Test point"],
+      "explanation": "Simpleng piyesa ang minamarkahan ng R, C, L at D, at kadalasang integrated circuit ang U."
+    },
+    {
+      "question": "May dalawang magkahiwalay na linya sa pahina na magkapareho ang pangalan. Ano ang ibig sabihin nito?",
+      "options": ["Mali ang isa sa kanila", "Magkasalungat ang dala nilang signal", "Nasa magkaibang board sila", "Magkakonekta sila"],
+      "explanation": "Gumagamit ang mga diagram ng magkaparehong pangalan para ipakita ang koneksyon nang hindi gumuguhit ng mahabang linya."
+    },
+    {
+      "question": "Aling piyesa ang isang direksyon lang ang pinapadaanan ng kuryente?",
+      "options": ["Resistor", "Diode", "Capacitor", "Inductor"],
+      "explanation": "Pinapadaan ng diode ang kuryente sa isang direksyon at hinaharangan sa kabila."
+    }
+  ]
+}

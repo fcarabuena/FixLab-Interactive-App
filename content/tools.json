@@ -1,0 +1,107 @@
+[
+  {
+    "id": "precision-screwdriver",
+    "name": "Precision screwdriver set",
+    "description": "Small screwdrivers with swappable tips, in the tiny sizes and shapes that phones use.",
+    "usedFor": "Removing the small screws inside a phone.",
+    "caution": "Use the tip that fits exactly. The wrong tip ruins the screw head."
+  },
+  {
+    "id": "opening-pick",
+    "name": "Plastic opening picks",
+    "description": "Thin, flexible plastic triangles that slide into the seam of a phone.",
+    "usedFor": "Cutting through adhesive and holding a seam open.",
+    "caution": "Insert only a few millimeters. Cables and the battery can sit right at the edge."
+  },
+  {
+    "id": "spudger",
+    "name": "Plastic spudger",
+    "description": "A plastic stick with a flat end, made for gentle prying.",
+    "usedFor": "Lifting connectors and easing parts apart.",
+    "caution": "Lift connectors straight up from their edges."
+  },
+  {
+    "id": "suction-cup",
+    "name": "Suction cup",
+    "description": "A small cup with a handle that grips smooth glass.",
+    "usedFor": "Lifting a screen or glass back to open the first small gap.",
+    "caution": "Pull gently. If the glass is cracked, cover it with tape first so the cup can grip."
+  },
+  {
+    "id": "tweezers",
+    "name": "ESD-safe tweezers",
+    "description": "Fine-tipped tweezers made so they do not pass static to parts.",
+    "usedFor": "Holding small screws, brackets and cables.",
+    "caution": "Do not touch connector pins or the battery with metal tips."
+  },
+  {
+    "id": "heat-tool",
+    "name": "Heat pad or heat gun",
+    "description": "A heat source used on its lowest setting to soften adhesive.",
+    "usedFor": "Warming the edges of a glued back or screen.",
+    "caution": "Keep the heat moving and on the edges. Stop when the surface is too hot to keep a finger on."
+  },
+  {
+    "id": "isopropyl-alcohol",
+    "name": "Isopropyl alcohol, 90% or stronger",
+    "description": "A cleaning alcohol that dries quickly and leaves little behind.",
+    "usedFor": "Loosening battery adhesive and cleaning away old glue.",
+    "caution": "It is flammable. Keep it away from heat tools, and let it dry fully."
+  },
+  {
+    "id": "screw-tray",
+    "name": "Screw tray or mat",
+    "description": "A tray with sections, or a marked mat, for laying out parts in order.",
+    "usedFor": "Keeping every screw matched to the place it came from.",
+    "caution": "Screws differ in length. A long one in the wrong hole can pierce the board."
+  },
+  {
+    "id": "anti-static-mat",
+    "name": "Anti-static mat",
+    "description": "A work surface that safely drains static electricity away.",
+    "usedFor": "Giving the phone and loose parts a safe place to rest.",
+    "caution": "Connect it to ground, or it gives much less protection."
+  },
+  {
+    "id": "wrist-strap",
+    "name": "Anti-static wrist strap",
+    "description": "A band on your wrist, joined by a wire to a ground point.",
+    "usedFor": "Keeping your body free of static while you handle boards.",
+    "caution": "The strap should touch your skin, and its clip must be connected to ground."
+  },
+  {
+    "id": "soft-brush",
+    "name": "Soft brush",
+    "description": "A small brush with soft, non-metal bristles.",
+    "usedFor": "Cleaning lint and dust out of ports and off boards.",
+    "caution": "Never clean a port with a pin, needle or other metal object."
+  },
+  {
+    "id": "packing-tape",
+    "name": "Clear packing tape",
+    "description": "Wide, strong, see-through tape.",
+    "usedFor": "Holding cracked glass together during a repair.",
+    "caution": "Cover every crack, and still wear gloves."
+  },
+  {
+    "id": "safety-glasses",
+    "name": "Safety glasses",
+    "description": "Clear glasses that protect your eyes from flying pieces.",
+    "usedFor": "Every repair, especially around glass and springs.",
+    "caution": "Regular eyeglasses are not enough protection."
+  },
+  {
+    "id": "gloves",
+    "name": "Cut-resistant gloves",
+    "description": "Gloves that protect your hands from sharp edges.",
+    "usedFor": "Handling cracked screens and glass backs.",
+    "caution": "Take them off for delicate work with small connectors."
+  },
+  {
+    "id": "sand-container",
+    "name": "Metal container with dry sand",
+    "description": "A fireproof place to put a battery that starts to fail.",
+    "usedFor": "Keeping nearby whenever you remove a battery.",
+    "caution": "Have it ready before you start, and only use it if you can do so safely."
+  }
+]

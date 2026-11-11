@@ -1,0 +1,35 @@
+[
+  {
+    "id": "glued-back",
+    "name": "Glued back",
+    "description": "A glass or plastic back held on with strong adhesive. The battery and mainboard sit right underneath it.",
+    "openingMethod": "Warm the edges to soften the glue, lift a corner with a suction cup, then slide thin plastic picks around the edge.",
+    "riskNotes": [
+      "Glass backs can crack while you pry, leaving sharp edges.",
+      "Too much heat can damage the battery and other parts.",
+      "Picks pushed in too far can tear thin ribbon cables."
+    ]
+  },
+  {
+    "id": "clip-back",
+    "name": "Clip back",
+    "description": "A plastic back held on by small clips, sometimes with a few screws. Often found on budget phones.",
+    "openingMethod": "Remove any visible screws, then run a plastic opening tool around the seam so the clips release one at a time.",
+    "riskNotes": [
+      "Clips snap easily if you force them.",
+      "Some screws hide under stickers or the SIM tray.",
+      "Metal tools can scratch the case or short parts underneath."
+    ]
+  },
+  {
+    "id": "front-entry",
+    "name": "Front entry",
+    "description": "The screen comes off first. The battery and mainboard are reached from the front of the phone.",
+    "openingMethod": "Remove any screws at the bottom edge, warm the screen edges, then lift the screen slowly without pulling on its cables.",
+    "riskNotes": [
+      "Display cables are short, so the screen cannot be opened far until they are unplugged.",
+      "The screen is the most expensive part to break by accident.",
+      "Waterproof seals must be replaced when the phone is closed."
+    ]
+  }
+]

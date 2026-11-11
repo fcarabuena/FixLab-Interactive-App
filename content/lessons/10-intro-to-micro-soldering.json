@@ -1,0 +1,54 @@
+{
+  "id": "intro-to-micro-soldering",
+  "order": 10,
+  "title": "Intro to micro-soldering",
+  "summary": "What micro-soldering is, the tools and safety it needs, and how to start practicing.",
+  "sections": [
+    {
+      "heading": "What micro-soldering is",
+      "body": "Micro-soldering means repairing or replacing very small parts on a circuit board, usually under a microscope. It can fix problems that no part swap can, such as a broken charging port soldered to the board. It is an advanced skill that takes training and a lot of practice."
+    },
+    {
+      "heading": "The equipment",
+      "body": "A basic setup has a temperature-controlled soldering iron with a fine tip, a hot air station, a stereo microscope, flux, thin solder, solder wick, fine tweezers and a board holder. It also needs a fume extractor. Set temperatures by following the instructions for your solder and your equipment."
+    },
+    {
+      "heading": "Staying safe",
+      "body": "Solder fumes are harmful, so use a fume extractor in a ventilated room. Many solders contain lead, so wash your hands after working and keep food away. An iron can cause serious burns, so always return it to its stand. Wear eye protection. Remove the battery completely from any phone before you apply heat to its board."
+    },
+    {
+      "heading": "Basic technique",
+      "body": "Keep the tip clean and coated with a little solder, which is called tinning. Flux helps solder flow and makes joints cleaner. Heat the joint briefly and then move away, because too much heat can lift pads off the board. Use solder wick to remove extra solder."
+    },
+    {
+      "heading": "How to practice",
+      "body": "Practice on scrap boards from dead electronics, and never begin on a phone that matters. Start with removing and refitting larger parts, then move to smaller ones. Inspect every joint under the microscope. A class with a teacher who can correct your technique is the best next step."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Where should a beginner practice micro-soldering?",
+      "options": ["On a friend's phone", "On scrap boards from dead electronics", "On their own daily phone", "On a brand new phone"],
+      "correctIndex": 1,
+      "explanation": "Scrap boards let you make mistakes without damaging anything that matters."
+    },
+    {
+      "question": "Why use a fume extractor?",
+      "options": ["To cool the board", "To melt the solder faster", "Because solder fumes are harmful", "To clean the iron tip"],
+      "correctIndex": 2,
+      "explanation": "Solder and flux fumes are harmful to breathe, so remove them from your work area."
+    },
+    {
+      "question": "What should happen to the battery before you heat a phone's board?",
+      "options": ["It must be removed completely", "It should be fully charged", "It can stay connected", "It should be warmed up first"],
+      "correctIndex": 0,
+      "explanation": "Heat near a lithium battery is a fire risk, so take the battery out first."
+    },
+    {
+      "question": "What can happen if you heat a joint for too long?",
+      "options": ["The solder turns to flux", "The joint gets stronger", "The microscope fogs up", "Pads can lift off the board"],
+      "correctIndex": 3,
+      "explanation": "Too much heat can damage the board, so heat each joint briefly."
+    }
+  ]
+}

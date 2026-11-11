@@ -1,0 +1,50 @@
+{
+  "id": "meet-the-smartphone",
+  "order": 1,
+  "title": "Meet the smartphone",
+  "summary": "What is inside a phone, what each main part does, and how phones are built.",
+  "sections": [
+    {
+      "heading": "A stack of layers",
+      "body": "A smartphone is a stack of parts packed tightly into a frame. From the back, you usually find the back cover, then the battery and mainboard side by side, then the display on the far side. Thin ribbon cables, called flex cables, join everything together."
+    },
+    {
+      "heading": "The main parts",
+      "body": "The battery stores power. The mainboard holds the processor and memory, and links every other part. The display shows the picture and senses touch. The charging port brings power in, usually on its own small board or flex cable. Cameras, speakers and microphones plug into the rest of the phone with small press-on connectors."
+    },
+    {
+      "heading": "Three ways phones are built",
+      "body": "Repairs follow the same method within a construction type. A glued-back phone has a back held on by adhesive. A clip-back phone has a plastic back held on by clips and sometimes screws. A front-entry phone is opened by taking the screen off first. Knowing the type tells you how to begin."
+    },
+    {
+      "heading": "Match the symptom to the part",
+      "body": "Good repair starts with careful thinking. A phone that dies quickly points to the battery. Lines on the picture point to the display. A phone that only charges at a certain cable angle points to the charging port. Always check the simple causes first, such as a bad cable or lint in the port."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which part links all the other parts of the phone together?",
+      "options": ["The back cover", "The mainboard", "The speaker", "The SIM tray"],
+      "correctIndex": 1,
+      "explanation": "The mainboard holds the processor and memory, and every other part connects to it."
+    },
+    {
+      "question": "How do you begin opening a front-entry phone?",
+      "options": ["Remove the back cover", "Remove the battery", "Take the screen off first", "Unclip the sides"],
+      "correctIndex": 2,
+      "explanation": "On a front-entry phone, the battery and mainboard are reached by removing the screen."
+    },
+    {
+      "question": "A phone only charges when the cable is held at a certain angle. What should you suspect?",
+      "options": ["The display", "The camera", "The charging port or cable", "The mainboard memory"],
+      "correctIndex": 2,
+      "explanation": "An angle-sensitive connection points to the cable or port. Check for lint and try another cable first."
+    },
+    {
+      "question": "What are flex cables?",
+      "options": ["Thin ribbons that join parts together", "Charging cables you plug into the wall", "Springs that hold the battery", "Antennas for Wi-Fi only"],
+      "correctIndex": 0,
+      "explanation": "Flex cables are thin ribbons that carry power and signals between parts."
+    }
+  ]
+}

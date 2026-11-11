@@ -1,0 +1,146 @@
+{
+  "id": "screen-front-entry",
+  "title": "Replace the screen on a front-entry phone",
+  "constructionType": "front-entry",
+  "repairType": "screen",
+  "difficulty": "hard",
+  "estimatedTime": "2 to 3 hours",
+  "tools": [
+    "Heat pad, or heat gun on its lowest setting",
+    "Suction cup",
+    "Plastic opening picks",
+    "Plastic spudger",
+    "Precision screwdriver set",
+    "Tray or mat to keep screws in order",
+    "Clear packing tape",
+    "Isopropyl alcohol, 90% or stronger",
+    "Safety glasses and cut-resistant gloves"
+  ],
+  "parts": [
+    "Replacement screen made for your exact phone model",
+    "New screen adhesive made for your phone"
+  ],
+  "diyCheck": {
+    "summary": "This is a sample guide for learning the general method on a front-entry phone. Your phone's layout may differ, so also check a guide written for your exact model.",
+    "goToShopIf": [
+      "The battery is swollen or the screen is being pushed up from inside",
+      "The phone has been in water or has burn marks",
+      "The frame is bent",
+      "The phone holds data you cannot back up",
+      "You do not have a replacement screen made for your exact model",
+      "The phone has an in-screen fingerprint reader and you cannot confirm it will work with the new screen"
+    ]
+  },
+  "steps": [
+    {
+      "number": 1,
+      "title": "Prepare the phone and your workspace",
+      "body": "Back up your data if the phone still lets you. Let the battery run down to below 25% if you can. Power the phone off fully, unplug it and remove the SIM tray. Clear a table of anything that can burn.",
+      "image": "placeholders/guide-screen-front-entry-step-01.png",
+      "warnings": ["Do not start this repair on a bed, sofa or carpet."],
+      "checklist": ["Data is backed up, or you accept it may be lost", "Phone is powered off and unplugged", "SIM tray is removed", "Safety glasses are on"]
+    },
+    {
+      "number": 2,
+      "title": "Tape over cracked glass",
+      "body": "If the glass is cracked, cover the whole screen with overlapping strips of clear packing tape. The tape holds loose pieces together and helps the suction cup grip.",
+      "image": "placeholders/guide-screen-front-entry-step-02.png",
+      "warnings": ["Wear gloves and eye protection whenever you handle broken glass."],
+      "checklist": ["Cracked areas are fully covered with tape"]
+    },
+    {
+      "number": 3,
+      "title": "Remove the bottom screws",
+      "body": "Many front-entry phones have two small screws on the bottom edge. Remove them and keep them in order on your tray. If you see no screws, check a guide for your exact model before going further.",
+      "image": "placeholders/guide-screen-front-entry-step-03.png",
+      "warnings": [],
+      "checklist": ["Screws are laid out in order"]
+    },
+    {
+      "number": 4,
+      "title": "Warm the screen edges",
+      "body": "Warm the bottom edge in short passes, keeping the heat moving. Stop when the glass feels too hot to keep your finger on it, and let it cool a little before heating again.",
+      "image": "placeholders/guide-screen-front-entry-step-04.png",
+      "warnings": [
+        "Too much heat can permanently damage the screen and the battery behind it. Keep heat on the edges.",
+        "The glass can burn your skin. Handle it with care."
+      ],
+      "checklist": ["Heat stayed on the edges", "Glue feels softer at the edge"],
+      "diyGate": {
+        "question": "This step uses heat on a phone with a lithium battery directly behind the screen. Check the phone first.",
+        "stopIf": [
+          "The screen is bulging or being pushed up from inside",
+          "The phone feels hot while switched off",
+          "You can smell a sweet or chemical odor from the phone"
+        ]
+      }
+    },
+    {
+      "number": 5,
+      "title": "Lift the screen",
+      "body": "Press the suction cup near the bottom edge and pull up gently to open a small gap. Slide a plastic pick in at a shallow angle, then work it slowly along the sides, adding picks to hold the seam open. Open the screen only a little, because its cables are short.",
+      "image": "placeholders/guide-screen-front-entry-step-05.png",
+      "warnings": [
+        "Insert the pick only a few millimeters. Deeper can tear the display cables.",
+        "Never use a metal tool here."
+      ],
+      "checklist": ["Adhesive is released all the way around", "Screen was not pulled against its cables"],
+      "diyGate": {
+        "question": "Once you lift the screen, the phone's waterproofing is gone and the display cables are exposed.",
+        "stopIf": [
+          "The glass is breaking apart instead of lifting in one piece",
+          "You cannot tell where the display cables are",
+          "You feel unsure or rushed"
+        ]
+      }
+    },
+    {
+      "number": 6,
+      "title": "Disconnect the battery",
+      "body": "Open the screen just enough to reach inside, and support it so it does not hang by its cables. Remove the small bracket over the connectors and keep its screws in order. Lift the battery connector straight up with a plastic spudger, and do this before touching any other connector.",
+      "image": "placeholders/guide-screen-front-entry-step-06.png",
+      "warnings": ["Use plastic only. A metal tool can short the connector and cause sparks."],
+      "checklist": ["Battery connector is unplugged", "Connector cannot spring back onto the socket"]
+    },
+    {
+      "number": 7,
+      "title": "Remove the old screen",
+      "body": "Lift each display connector straight up with the spudger. Set the old screen aside with its glass side down, on a surface where nobody will lean on it.",
+      "image": "placeholders/guide-screen-front-entry-step-07.png",
+      "warnings": ["Lift connectors from their edges. Prying from one corner can bend the socket pins."],
+      "checklist": ["All display connectors are unplugged", "Old screen is set aside safely"]
+    },
+    {
+      "number": 8,
+      "title": "Clean the frame and move small parts",
+      "body": "Remove old adhesive from the frame with a plastic tool and a little isopropyl alcohol, then let it dry completely. If the new screen did not come with an earpiece mesh or sensor bracket, carefully move them from the old screen.",
+      "image": "placeholders/guide-screen-front-entry-step-08.png",
+      "warnings": ["Isopropyl alcohol is flammable. Keep it away from heat tools."],
+      "checklist": ["Frame is clean and dry", "Small parts are moved to the new screen"]
+    },
+    {
+      "number": 9,
+      "title": "Test the new screen before sealing",
+      "body": "Connect the new screen's cables first, then connect the battery. Do not press the screen down yet. Power on and check the picture, the brightness and touch across the whole screen. Power off and disconnect the battery again when you finish.",
+      "image": "placeholders/guide-screen-front-entry-step-09.png",
+      "warnings": ["Always unplug the battery before plugging or unplugging display cables."],
+      "checklist": ["Picture has no lines or dark patches", "Touch works in every area", "Battery is disconnected again"]
+    },
+    {
+      "number": 10,
+      "title": "Seal the phone",
+      "body": "Apply the new adhesive to the frame. Reconnect the battery, refit the bracket and its screws, then lower the screen and press it evenly into place. Refit the bottom screws and the SIM tray. Hold the screen with light, even pressure while the adhesive sets.",
+      "image": "placeholders/guide-screen-front-entry-step-10.png",
+      "warnings": ["After opening, the phone may no longer be water resistant."],
+      "checklist": ["Screen sits flat all the way around", "All screws are back in place", "Phone powers on"]
+    },
+    {
+      "number": 11,
+      "title": "Dispose of the old screen safely",
+      "body": "Wrap the old screen in tape or thick paper so nobody gets cut, then take it to an e-waste collection point. Many repair shops accept old parts.",
+      "image": "placeholders/guide-screen-front-entry-step-11.png",
+      "warnings": [],
+      "checklist": ["Old screen is wrapped", "Table is clear of glass pieces"]
+    }
+  ]
+}

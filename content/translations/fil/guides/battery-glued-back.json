@@ -1,0 +1,142 @@
+{
+  "id": "battery-glued-back",
+  "title": "Palitan ang baterya ng teleponong nakadikit ang likod",
+  "estimatedTime": "1 hanggang 2 oras",
+  "tools": [
+    "Heat pad, o heat gun sa pinakamahinang setting",
+    "Suction cup",
+    "Plastik na opening pick",
+    "Plastik na spudger",
+    "Set ng precision screwdriver",
+    "Tray o mat para maayos ang pagkakasunod ng mga turnilyo",
+    "Isopropyl alcohol, 90% o mas matapang",
+    "Safety glasses",
+    "Metal na lalagyan na may tuyong buhangin, nakahanda sa malapit"
+  ],
+  "parts": [
+    "Pamalit na bateryang gawa para sa eksaktong modelo ng telepono mo",
+    "Bagong adhesive ng takip sa likod na gawa para sa telepono mo",
+    "Bagong adhesive strip ng baterya, kung hindi kasama sa baterya"
+  ],
+  "diyCheck": {
+    "summary": "Halimbawang gabay ito para matutunan ang pangkalahatang paraan sa teleponong nakadikit ang likod. Puwedeng iba ang ayos ng telepono mo, kaya tumingin din ng gabay para sa eksaktong modelo mo.",
+    "goToShopIf": [
+      "Namamaga ang baterya o kusang umaangat ang likod",
+      "Nabasa ang telepono o may marka ng pagkasunog",
+      "Nabaluktot o nadurog ang telepono",
+      "May laman ang telepono na hindi mo mai-back up",
+      "Wala kang pamalit na bateryang gawa para sa eksaktong modelo mo",
+      "Wala kang ligtas at maluwag na lugar na pagtatrabahuhan"
+    ]
+  },
+  "steps": [
+    {
+      "title": "Ihanda ang telepono at ang lugar",
+      "body": "I-back up ang mga file mo. Hayaang bumaba ang baterya sa ilalim ng 25%, dahil mas hindi mapanganib ang bateryang kaunti ang karga kung sakaling masira ito. Patayin nang tuluyan ang telepono at tanggalin sa saksakan. Alisin sa mesa ang anumang puwedeng masunog, at magtrabaho sa lugar na mabilis kang makakaalis.",
+      "warnings": ["Huwag gawin ang repair na ito sa kama, sofa o carpet."],
+      "checklist": [
+        "Na-back up na ang mga file",
+        "Nasa ilalim ng 25% ang baterya",
+        "Patay na ang telepono at hindi nakasaksak",
+        "Suot ang safety glasses at nasa malapit ang lalagyan ng buhangin"
+      ]
+    },
+    {
+      "title": "Painitin ang takip sa likod",
+      "body": "Painitin ang isang gilid ng takip nang paunti-unti, at laging igalaw ang init. Ang layunin ay palambutin ang pandikit, hindi lutuin ang telepono. Tumigil kapag sobrang init na ng salamin para hawakan ng daliri, at palamigin nang kaunti bago painitin ulit.",
+      "warnings": [
+        "Ang sobrang init ay puwedeng makasira sa baterya. Sa mga gilid lang ang init, malayo sa gitna.",
+        "Puwedeng makapaso ang takip sa likod. Mag-ingat sa paghawak."
+      ],
+      "checklist": ["Sa mga gilid lang natutok ang init", "Mas malambot na ang pandikit sa gilid"],
+      "diyGate": {
+        "question": "Gumagamit ng init ang hakbang na ito sa teleponong may lithium battery sa loob. Suriin muna ang telepono.",
+        "stopIf": [
+          "Nakaumbok ang likod o kusang umaangat",
+          "Mainit ang telepono kahit patay",
+          "May naaamoy kang matamis o amoy-kemikal mula sa telepono",
+          "Durog na durog ang likod na salamin"
+        ]
+      }
+    },
+    {
+      "title": "Iangat ang likod gamit ang suction cup at pick",
+      "body": "Idiin ang suction cup malapit sa pinainit na gilid at hilahin nang dahan-dahan para magkaroon ng maliit na siwang. Isuksok ang plastik na pick sa siwang nang pahiga. Iwan lang doon ang pick para hindi magdikit ulit ang pandikit.",
+      "warnings": [
+        "Ilang milimetro lang ang isuksok na pick. Kapag mas malalim, puwedeng mapunit ang mga cable o mabutas ang baterya.",
+        "Huwag kailanman gumamit ng gamit na metal dito."
+      ],
+      "checklist": ["Nasa siwang na ang pick", "Ilang milimetro lang ang lalim ng pick"]
+    },
+    {
+      "title": "Hiwain ang pandikit sa paligid",
+      "body": "Dahan-dahang padaanin ang pick sa bawat gilid, at magdagdag ng mga pick para manatiling bukas ang dugtungan. Painitin ulit ang mga gilid kapag tumigas ang pandikit. Bago iangat ang likod, tingnan kung may ribbon cable na nagkakabit nito sa telepono. Kung mayroon, huwag hilahin. Buksan lang ang likod hanggang sa kaya ng cable.",
+      "warnings": ["Lumayo sa bahagi ng camera, kung saan kadalasang pinakamanipis ang salamin."],
+      "checklist": ["Nahiwa na ang pandikit sa lahat ng gilid", "Natingnan kung may cable na nagkakabit ng likod sa telepono"]
+    },
+    {
+      "title": "Tanggalin ang panloob na takip",
+      "body": "Maraming telepono ang may manipis na platong nakaturnilyo sa ibabaw ng mainboard at ng connector ng baterya. Tanggalin ang mga turnilyo at ilagay nang sunod-sunod sa tray, dahil puwedeng makasira ng board ang mga turnilyong magkakaiba ang haba kapag nagkapalit-palit. Iangat ang plato.",
+      "warnings": [],
+      "checklist": ["Nakaayos nang sunod-sunod ang mga turnilyo", "Nakikita na ang connector ng baterya"]
+    },
+    {
+      "title": "Tanggalin ang connector ng baterya",
+      "body": "Hanapin ang maliit na press-on connector na nagkakabit ng baterya sa board. Isuksok ang plastik na spudger sa ilalim ng gilid ng connector at iangat nang diretso. Ibaluktot ito nang kaunti palayo sa socket para hindi aksidenteng dumikit ulit.",
+      "warnings": ["Plastik lang ang gamitin. Puwedeng ma-short ng gamit na metal ang connector at magdulot ng spark."],
+      "checklist": ["Natanggal na ang connector", "Hindi na babalik ang connector sa socket"]
+    },
+    {
+      "title": "Tanggalin ang lumang baterya",
+      "body": "Kung may pull tab ang baterya, hilahin ito nang dahan-dahan at pababa, halos nakalapat sa telepono. Kung walang tab o naputol ito, patakan ng kaunting isopropyl alcohol ang gilid ng baterya, maghintay ng isang minuto, tapos dahan-dahang iangat gamit ang plastik na card. Huwag magmadali at iangat nang pantay.",
+      "warnings": [
+        "Huwag kailanman baluktutin o yupiin ang baterya. Baka hindi agad makita ang sira.",
+        "Huwag kailanman painitin ang telepono sa tapat ng baterya para lumuwag ito.",
+        "Kung sumisirit, umuusok o umiinit ang baterya, ihulog ito sa buhangin, lumayo at papasukin ang sariwang hangin. Kung may sunog, lumabas at tumawag sa emergency services."
+      ],
+      "checklist": ["Natanggal ang baterya nang hindi nabaluktot", "Nakalagay ang lumang baterya malayo sa anumang nasusunog"],
+      "diyGate": {
+        "question": "Ito ang pinakamapanganib na hakbang sa repair. Tingnang mabuti ang baterya.",
+        "stopIf": [
+          "Mukhang namamaga, nayupi o nabutas ang baterya",
+          "Mainit hawakan ang baterya",
+          "Naputol ang mga pull tab at ayaw gumalaw ng baterya kahit may alcohol",
+          "Hindi ka sigurado o nagmamadali ka"
+        ]
+      }
+    },
+    {
+      "title": "Linisin ang lalagyan ng baterya",
+      "body": "Tanggalin ang lumang adhesive gamit ang plastik na gamit at kaunting isopropyl alcohol. Hayaang matuyo nang lubos ang alcohol. Tingnan kung may sira, maluwag na dumi o kalawang sa bahaging iyon.",
+      "warnings": ["Nasusunog ang isopropyl alcohol. Ilayo ito sa mga heat tool."],
+      "checklist": ["Malinis at tuyo na ang lalagyan", "Walang naiwang dumi"]
+    },
+    {
+      "title": "Ikabit ang bagong baterya",
+      "body": "Suriin ang bagong baterya. Dapat patag ito, walang sira at gawa para sa eksaktong modelo ng telepono mo. Ilagay ang adhesive strip, iayos nang mabuti ang baterya, tapos idiin nang dahan-dahan at pantay gamit ang nakalapat na mga daliri.",
+      "warnings": ["Huwag ikabit ang bateryang namamaga, may yupi o galing sa hindi kilalang nagbebenta."],
+      "checklist": ["Mukhang patag at walang sira ang bagong baterya", "Sakto ang baterya sa lalagyan"]
+    },
+    {
+      "title": "Ikabit at subukan bago isara",
+      "body": "Idiin nang diretso ang connector ng baterya hanggang lumagitik. Ibalik ang panloob na takip at ang mga turnilyo sa dati nilang puwesto. I-on ang telepono at tingnan kung nag-o-on, nagcha-charge at tama ang ipinapakitang karga. Mas madaling ayusin ang problema ngayon kaysa pagkatapos maisara ang likod.",
+      "warnings": [],
+      "checklist": ["Nag-o-on ang telepono", "Nagcha-charge ang telepono sa cable", "Naibalik na ang lahat ng turnilyo"]
+    },
+    {
+      "title": "Isara ang takip sa likod",
+      "body": "Patayin ang telepono. Tanggalin ang lumang pandikit sa frame at sa takip, tapos lagyan ng bagong adhesive na gawa para sa telepono mo. Ikabit ulit ang anumang cable papunta sa takip, idiin nang pantay ang takip, at ipitin ng clamp o magaan at pantay na pabigat habang tumitigas ang adhesive.",
+      "warnings": [
+        "Huwag idiin nang malakas ang gitna ng telepono.",
+        "Pagkatapos buksan, baka hindi na water resistant ang telepono."
+      ],
+      "checklist": ["Nalagyan na ng bagong adhesive", "Lapat ang takip sa buong paligid"]
+    },
+    {
+      "title": "Itapon nang ligtas ang lumang baterya",
+      "body": "Takpan ang connector ng lumang baterya ng tape na hindi dumadaloy ang kuryente. Ilagay ito sa lalagyang hindi nasusunog, malayo sa anumang puwedeng masunog, hanggang madala mo sa collection point ng e-waste o baterya. Maraming repair shop ang tumatanggap ng lumang baterya.",
+      "warnings": ["Huwag kailanman itapon ang lithium battery sa basurahan sa bahay o sa apoy."],
+      "checklist": ["Natakpan ng tape ang connector", "Ligtas na nakatago ang lumang baterya hanggang madala"]
+    }
+  ]
+}

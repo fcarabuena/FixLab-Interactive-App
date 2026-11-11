@@ -1,0 +1,92 @@
+[
+  {
+    "id": "back-cover",
+    "name": "Takip sa likod",
+    "description": "Ang panlabas na balat sa likod ng telepono. Pinoprotektahan nito ang loob at, sa maraming telepono, nakakatulong para hindi pumasok ang tubig at alikabok.",
+    "commonSymptoms": [
+      "Basag o durog ang likod",
+      "Umaangat ang likod mula sa frame, na puwedeng senyales ng namamagang baterya",
+      "May kumakalog o maluwag na sulok"
+    ],
+    "tools": ["Heat pad o heat gun sa mahinang setting", "Suction cup", "Plastik na opening pick"],
+    "safetyNotes": [
+      "Magsuot ng proteksyon sa mata. Puwedeng biglang mabasag ang salamin habang binubuksan.",
+      "Kung kusang umaangat ang likod, tumigil at tingnan kung namamaga ang baterya."
+    ]
+  },
+  {
+    "id": "battery",
+    "name": "Baterya",
+    "description": "Patag na lithium-ion pouch na nag-iimbak ng kuryente ng telepono. Nakakabit ito sa mainboard sa pamamagitan ng maliit na press-on connector.",
+    "commonSymptoms": [
+      "Napakabilis maubos ang baterya",
+      "Namamatay ang telepono kahit may karga pa",
+      "Mukhang namamaga ang baterya o ang likod ng telepono",
+      "Umiinit ang telepono habang nagcha-charge"
+    ],
+    "tools": ["Plastik na spudger", "Isopropyl alcohol, 90% o mas matapang", "Plastik na card"],
+    "safetyNotes": [
+      "Huwag kailanman butasin, baluktutin o durugin ang baterya. Puwede itong magliyab.",
+      "Huwag kailanman gumamit ng gamit na metal sa pagsungkit ng baterya.",
+      "Huwag kailanman gamitin ulit o ipagpatuloy ang pag-charge ng namamagang baterya."
+    ]
+  },
+  {
+    "id": "mainboard",
+    "name": "Mainboard",
+    "description": "Ang pangunahing circuit board. Dito nakalagay ang processor, memory at mga connector na nag-uugnay sa lahat ng iba pang piyesa.",
+    "commonSymptoms": [
+      "Ayaw mag-on ng telepono kahit maayos ang baterya",
+      "Biglang nagre-restart",
+      "Walang signal o Wi-Fi pagkatapos mahulog o mabasa"
+    ],
+    "tools": ["Set ng precision screwdriver", "Plastik na spudger", "ESD-safe na tweezers", "Anti-static mat at wrist strap"],
+    "safetyNotes": [
+      "Tanggalin muna ang baterya bago hawakan ang board.",
+      "Puwedeng makasira ng chip ang static electricity, kaya i-ground muna ang sarili."
+    ]
+  },
+  {
+    "id": "rear-camera",
+    "name": "Camera sa likod",
+    "description": "Ang camera module sa likod ng telepono. Nakasaksak ito sa mainboard gamit ang sarili nitong maliit na connector.",
+    "commonSymptoms": ["Malabo ang mga litrato", "Itim lang ang lumalabas sa camera app", "May mga batik sa bawat litrato"],
+    "tools": ["Plastik na spudger", "ESD-safe na tweezers", "Microfiber na tela"],
+    "safetyNotes": [
+      "Huwag hawakan ang lens gamit ang hubad na daliri.",
+      "Ilayo ang init sa bahagi ng camera."
+    ]
+  },
+  {
+    "id": "charging-flex",
+    "name": "Charging flex",
+    "description": "Manipis na ribbon o maliit na board na may charging port, at kadalasang mikropono. Isang mahabang flex cable ang nag-uugnay nito sa mainboard.",
+    "commonSymptoms": [
+      "Nagcha-charge lang kapag nasa isang anggulo ang cable",
+      "Napakabagal mag-charge",
+      "Hindi nakikita ng computer ang telepono",
+      "Mahina ang mikropono sa tawag"
+    ],
+    "tools": ["Plastik na spudger", "Set ng precision screwdriver", "Malambot na brush para linisin ang port"],
+    "safetyNotes": [
+      "Tanggalin muna ang baterya.",
+      "Tingnan muna kung may lint sa port bago magpalit ng kahit ano. Linisin ito gamit ang hindi metal na gamit."
+    ]
+  },
+  {
+    "id": "display",
+    "name": "Display",
+    "description": "Ang buong screen, na binubuo ng salamin, touch layer at panel na gumagawa ng larawan. Ang loob na mukha nito ang makikita rito.",
+    "commonSymptoms": [
+      "Basag ang salamin",
+      "May itim na bahagi o makukulay na guhit",
+      "Hindi gumagana ang touch sa ilang bahagi",
+      "Itim ang screen pero may tunog pa ang telepono"
+    ],
+    "tools": ["Heat pad o heat gun sa mahinang setting", "Suction cup", "Plastik na opening pick", "Pamalit na adhesive"],
+    "safetyNotes": [
+      "Matalim ang basag na salamin. Magsuot ng guwantes at proteksyon sa mata.",
+      "Huwag baluktutin ang panel o hilahin ang cable nito."
+    ]
+  }
+]

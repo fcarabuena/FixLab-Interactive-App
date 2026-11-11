@@ -1,0 +1,54 @@
+{
+  "id": "multimeter-basics",
+  "order": 7,
+  "title": "Multimeter basics",
+  "summary": "What a multimeter measures, how to use it safely, and how to read the results.",
+  "sections": [
+    {
+      "heading": "What a multimeter does",
+      "body": "A multimeter is the main test tool for electronics repair. It measures voltage, which is electrical pressure. It measures resistance, which is how much a part opposes current. Continuity mode beeps when two points are connected. Diode mode checks parts that should only pass current one way."
+    },
+    {
+      "heading": "Using it safely",
+      "body": "Plug the black probe into COM and the red probe into the socket for voltage. Choose the mode before the probes touch anything. Test continuity, resistance and diodes only with the power off and the battery disconnected. Never put the meter in current mode across a battery, because that makes a direct short. Fine probe tips can slip and bridge two pads, so keep your hands steady."
+    },
+    {
+      "heading": "Measuring voltage",
+      "body": "Use DC voltage mode for phones. Touch the probes to the battery's positive and negative contacts. A phone battery usually reads somewhere from about 3.0 to about 4.4 volts, depending on its charge. A USB charger supplies about 5 volts. A battery that reads far below this range has been deeply discharged, and it should be replaced, not revived."
+    },
+    {
+      "heading": "Checking continuity",
+      "body": "Continuity mode tells you whether a path is unbroken. It is useful for checking cables, flex lines and fuses. A beep means the two points are connected. No beep on a path that should be connected suggests a break."
+    },
+    {
+      "heading": "Making sense of readings",
+      "body": "One number means little by itself. Compare your reading with a known good part or with trusted reference data for that exact model, and repeat the test to confirm it. Change one thing at a time, and write down what you find."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which socket does the black probe go in?",
+      "options": ["COM", "The voltage socket", "The current socket", "Either one"],
+      "correctIndex": 0,
+      "explanation": "The black probe always goes into the common socket, labelled COM."
+    },
+    {
+      "question": "When should you test continuity on a board?",
+      "options": ["While the phone is charging", "While the phone is on", "With the power off and the battery disconnected", "Only while the board is warm"],
+      "correctIndex": 2,
+      "explanation": "Continuity and resistance tests are only reliable and safe on an unpowered circuit."
+    },
+    {
+      "question": "Which of these should you never do?",
+      "options": ["Set the mode before probing", "Put the meter in current mode across a battery", "Repeat a measurement", "Compare with a known good part"],
+      "correctIndex": 1,
+      "explanation": "In current mode the meter is almost a plain wire, so it would short the battery directly."
+    },
+    {
+      "question": "A beep in continuity mode means what?",
+      "options": ["The battery is full", "The meter is broken", "The part is overheating", "The two points are connected"],
+      "correctIndex": 3,
+      "explanation": "The meter beeps when it finds an unbroken path between the two probes."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "screen-front-entry",
+  "title": "Palitan ang screen ng teleponong sa harap binubuksan",
+  "estimatedTime": "2 hanggang 3 oras",
+  "tools": [
+    "Heat pad, o heat gun sa pinakamahinang setting",
+    "Suction cup",
+    "Plastik na opening pick",
+    "Plastik na spudger",
+    "Set ng precision screwdriver",
+    "Tray o mat para maayos ang pagkakasunod ng mga turnilyo",
+    "Malinaw na packing tape",
+    "Isopropyl alcohol, 90% o mas matapang",
+    "Safety glasses at guwantes na hindi madaling mahiwa"
+  ],
+  "parts": [
+    "Pamalit na screen na gawa para sa eksaktong modelo ng telepono mo",
+    "Bagong adhesive ng screen na gawa para sa telepono mo"
+  ],
+  "diyCheck": {
+    "summary": "Halimbawang gabay ito para matutunan ang pangkalahatang paraan sa teleponong sa harap binubuksan. Puwedeng iba ang ayos ng telepono mo, kaya tumingin din ng gabay para sa eksaktong modelo mo.",
+    "goToShopIf": [
+      "Namamaga ang baterya o naitutulak pataas ang screen mula sa loob",
+      "Nabasa ang telepono o may marka ng pagkasunog",
+      "Baluktot ang frame",
+      "May laman ang telepono na hindi mo mai-back up",
+      "Wala kang pamalit na screen na gawa para sa eksaktong modelo mo",
+      "May fingerprint reader sa loob ng screen at hindi mo matiyak kung gagana ito sa bagong screen"
+    ]
+  },
+  "steps": [
+    {
+      "title": "Ihanda ang telepono at ang lugar",
+      "body": "I-back up ang mga file mo kung kaya pa ng telepono. Hayaang bumaba ang baterya sa ilalim ng 25% kung kaya. Patayin nang tuluyan ang telepono, tanggalin sa saksakan at alisin ang SIM tray. Alisin sa mesa ang anumang puwedeng masunog.",
+      "warnings": ["Huwag gawin ang repair na ito sa kama, sofa o carpet."],
+      "checklist": ["Na-back up na ang mga file, o tanggap mong baka mawala ang mga ito", "Patay na ang telepono at hindi nakasaksak", "Natanggal na ang SIM tray", "Suot ang safety glasses"]
+    },
+    {
+      "title": "Lagyan ng tape ang basag na salamin",
+      "body": "Kung basag ang salamin, takpan ang buong screen ng magkakapatong na piraso ng malinaw na packing tape. Pinagdidikit ng tape ang maluluwag na piraso at tumutulong para kumapit ang suction cup.",
+      "warnings": ["Magsuot ng guwantes at proteksyon sa mata tuwing hahawak ng basag na salamin."],
+      "checklist": ["Natakpan ng tape ang lahat ng basag na bahagi"]
+    },
+    {
+      "title": "Tanggalin ang mga turnilyo sa ibaba",
+      "body": "Maraming teleponong sa harap binubuksan ang may dalawang maliit na turnilyo sa ibabang gilid. Tanggalin ang mga ito at ilagay nang sunod-sunod sa tray. Kung walang makitang turnilyo, tumingin muna ng gabay para sa eksaktong modelo mo bago magpatuloy.",
+      "warnings": [],
+      "checklist": ["Nakaayos nang sunod-sunod ang mga turnilyo"]
+    },
+    {
+      "title": "Painitin ang mga gilid ng screen",
+      "body": "Painitin ang ibabang gilid nang paunti-unti, at laging igalaw ang init. Tumigil kapag sobrang init na ng salamin para hawakan ng daliri, at palamigin nang kaunti bago painitin ulit.",
+      "warnings": [
+        "Ang sobrang init ay puwedeng permanenteng makasira sa screen at sa baterya sa likod nito. Sa mga gilid lang ang init.",
+        "Puwedeng makapaso ang salamin. Mag-ingat sa paghawak."
+      ],
+      "checklist": ["Sa mga gilid lang natutok ang init", "Mas malambot na ang pandikit sa gilid"],
+      "diyGate": {
+        "question": "Gumagamit ng init ang hakbang na ito sa teleponong may lithium battery mismo sa likod ng screen. Suriin muna ang telepono.",
+        "stopIf": [
+          "Nakaumbok ang screen o naitutulak pataas mula sa loob",
+          "Mainit ang telepono kahit patay",
+          "May naaamoy kang matamis o amoy-kemikal mula sa telepono"
+        ]
+      }
+    },
+    {
+      "title": "Iangat ang screen",
+      "body": "Idiin ang suction cup malapit sa ibabang gilid at hilahin nang dahan-dahan para magkaroon ng maliit na siwang. Isuksok ang plastik na pick nang pahiga, tapos dahan-dahang padaanin sa mga gilid at magdagdag ng mga pick para manatiling bukas ang dugtungan. Buksan lang nang kaunti ang screen, dahil maiikli ang mga cable nito.",
+      "warnings": [
+        "Ilang milimetro lang ang isuksok na pick. Kapag mas malalim, puwedeng mapunit ang mga cable ng display.",
+        "Huwag kailanman gumamit ng gamit na metal dito."
+      ],
+      "checklist": ["Natanggal na ang adhesive sa buong paligid", "Hindi nahila ang screen laban sa mga cable nito"],
+      "diyGate": {
+        "question": "Kapag naiangat na ang screen, wala na ang waterproofing ng telepono at nakalantad na ang mga cable ng display.",
+        "stopIf": [
+          "Nagkakapira-piraso ang salamin imbes na umangat nang buo",
+          "Hindi mo matukoy kung nasaan ang mga cable ng display",
+          "Hindi ka sigurado o nagmamadali ka"
+        ]
+      }
+    },
+    {
+      "title": "Tanggalin ang connector ng baterya",
+      "body": "Buksan ang screen nang sapat lang para maabot ang loob, at suportahan ito para hindi nakabitin sa mga cable. Tanggalin ang maliit na bracket sa ibabaw ng mga connector at ayusin ang mga turnilyo nito. Iangat nang diretso ang connector ng baterya gamit ang plastik na spudger, at gawin ito bago galawin ang iba pang connector.",
+      "warnings": ["Plastik lang ang gamitin. Puwedeng ma-short ng gamit na metal ang connector at magdulot ng spark."],
+      "checklist": ["Natanggal na ang connector ng baterya", "Hindi na babalik ang connector sa socket"]
+    },
+    {
+      "title": "Tanggalin ang lumang screen",
+      "body": "Iangat nang diretso ang bawat connector ng display gamit ang spudger. Itabi ang lumang screen nang nakataob ang salamin, sa lugar na walang makakasandal dito.",
+      "warnings": ["Iangat ang mga connector mula sa mga gilid nito. Puwedeng mabaluktot ang mga pin ng socket kapag sa isang sulok lang sinungkit."],
+      "checklist": ["Natanggal na ang lahat ng connector ng display", "Ligtas nang nakatabi ang lumang screen"]
+    },
+    {
+      "title": "Linisin ang frame at ilipat ang maliliit na piyesa",
+      "body": "Tanggalin ang lumang adhesive sa frame gamit ang plastik na gamit at kaunting isopropyl alcohol, tapos hayaang matuyo nang lubos. Kung walang kasamang earpiece mesh o sensor bracket ang bagong screen, maingat na ilipat ang mga ito mula sa lumang screen.",
+      "warnings": ["Nasusunog ang isopropyl alcohol. Ilayo ito sa mga heat tool."],
+      "checklist": ["Malinis at tuyo na ang frame", "Nailipat na ang maliliit na piyesa sa bagong screen"]
+    },
+    {
+      "title": "Subukan ang bagong screen bago isara",
+      "body": "Ikabit muna ang mga cable ng bagong screen, saka ang baterya. Huwag pang idiin ang screen. I-on ang telepono at tingnan ang larawan, ang liwanag at ang touch sa buong screen. Pagkatapos, patayin ang telepono at tanggalin ulit ang connector ng baterya.",
+      "warnings": ["Laging tanggalin ang baterya bago magkabit o magtanggal ng mga cable ng display."],
+      "checklist": ["Walang guhit o madilim na bahagi ang larawan", "Gumagana ang touch sa lahat ng bahagi", "Natanggal na ulit ang baterya"]
+    },
+    {
+      "title": "Isara ang telepono",
+      "body": "Lagyan ng bagong adhesive ang frame. Ikabit ulit ang baterya, ibalik ang bracket at mga turnilyo nito, tapos ibaba ang screen at idiin nang pantay sa lugar nito. Ibalik ang mga turnilyo sa ibaba at ang SIM tray. Diinan ang screen nang magaan at pantay habang tumitigas ang adhesive.",
+      "warnings": ["Pagkatapos buksan, baka hindi na water resistant ang telepono."],
+      "checklist": ["Lapat ang screen sa buong paligid", "Naibalik na ang lahat ng turnilyo", "Nag-o-on ang telepono"]
+    },
+    {
+      "title": "Itapon nang ligtas ang lumang screen",
+      "body": "Balutin ang lumang screen ng tape o makapal na papel para walang mahiwa, tapos dalhin sa collection point ng e-waste. Maraming repair shop ang tumatanggap ng lumang piyesa.",
+      "warnings": [],
+      "checklist": ["Nakabalot na ang lumang screen", "Walang naiwang piraso ng salamin sa mesa"]
+    }
+  ]
+}

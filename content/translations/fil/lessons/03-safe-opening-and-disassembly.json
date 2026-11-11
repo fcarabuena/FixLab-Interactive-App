@@ -1,0 +1,49 @@
+{
+  "id": "safe-opening-and-disassembly",
+  "title": "Ligtas na pagbubukas at pagbabaklas",
+  "summary": "Paano buksan ang telepono nang hindi ito nasisira, at paano susubaybayan ang bawat piyesa.",
+  "sections": [
+    {
+      "heading": "Magplano bago magbukas",
+      "body": "Alamin ang uri ng pagkakagawa, at basahin muna ang buong gabay. I-back up ang mga file mo. Hayaang bumaba ang baterya sa ilalim ng 25% kung kaya, at patayin nang tuluyan ang telepono. Tiyaking nasa iyo na ang tamang pamalit na piyesa bago magsimula."
+    },
+    {
+      "heading": "Ligtas na paggamit ng init",
+      "body": "Pinapalambot ng init ang adhesive, pero nakakasira ng baterya at screen ang sobra. Gumamit ng heat pad o heat gun sa mahinang setting. Laging igalaw ang init, manatili sa mga gilid, at tumigil kapag sobrang init na para hawakan ng daliri. Mas mabuting painitin nang ilang beses kaysa mag-overheat nang isang beses."
+    },
+    {
+      "heading": "Pagsusungkit nang walang sira",
+      "body": "Gumawa ng maliit na siwang gamit ang suction cup, tapos isuksok nang pahiga ang plastik na pick. Ilang milimetro lang ang lalim, dahil puwedeng nasa mismong gilid ang mga cable at baterya. Iwan ang mga pick sa dugtungan para hindi magsara ulit ang pandikit. Huwag kailanman pilitin ang naipit na bahagi. Hanapin kung may nakaligtaang turnilyo o clip."
+    },
+    {
+      "heading": "Mga turnilyo at connector",
+      "body": "Panatilihing sunod-sunod ang mga turnilyo ayon sa pagkakatanggal, dahil puwedeng tumagos sa board ang mahabang turnilyo sa maikling butas. Unahing tanggalin ang baterya bago ang lahat. Iangat nang diretso ang mga connector mula sa gilid gamit ang plastik na spudger. Kapag ibabalik ang connector, idiin ito nang diretso hanggang lumagitik."
+    },
+    {
+      "heading": "Subukan bago isara",
+      "body": "Bago isara ang telepono, ikabit ang lahat at i-on ito. Tingnan kung gumana ang repair at kung walang ibang nasira. Kapag nakita ang problema ngayon, hindi mo na kailangang buksan ulit ang telepono."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Ano ang unang dapat tanggalin pagkabukas ng telepono?",
+      "options": ["Ang camera", "Ang baterya", "Ang display", "Ang speaker"],
+      "explanation": "Kapag inuna ang baterya, nawawalan ng kuryente ang board kaya hindi ka makaka-short."
+    },
+    {
+      "question": "Gaano kalalim dapat ang opening pick?",
+      "options": ["Hanggang kaya", "Hanggang kalahati ng telepono", "Ilang milimetro lang", "Hanggang tumama sa baterya"],
+      "explanation": "Puwedeng malapit sa gilid ang mga cable at baterya, kaya panatilihing mababaw ang pick."
+    },
+    {
+      "question": "Bakit dapat panatilihing sunod-sunod ang mga turnilyo?",
+      "options": ["Para mas mabilis matapos", "Puwedeng makasira ng board ang mahabang turnilyo sa maikling butas", "Para walang kalawangin", "Para gumaan ang telepono"],
+      "explanation": "Magkakaiba ang haba ng mga turnilyo, at puwedeng tumagos sa board ang mahaba kapag sa maling butas."
+    },
+    {
+      "question": "May bahagi ng telepono na ayaw bumukas. Ano ang dapat gawin?",
+      "options": ["Lakasan ang puwersa", "Gumamit ng gamit na metal", "Hanapin kung may nakaligtaang turnilyo o clip", "Painitin nang todo"],
+      "explanation": "Nakakasira ang puwersa. Kadalasang may nakatagong turnilyo o nakaligtaang clip ang naipit na bahagi."
+    }
+  ]
+}

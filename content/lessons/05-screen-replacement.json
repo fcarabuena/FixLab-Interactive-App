@@ -1,0 +1,54 @@
+{
+  "id": "screen-replacement",
+  "order": 5,
+  "title": "Screen and LCD replacement",
+  "summary": "The kinds of phone screen, how to confirm a screen fault, and how to replace one safely.",
+  "sections": [
+    {
+      "heading": "LCD and OLED screens",
+      "body": "An LCD has a backlight behind its pixels. On an OLED, each pixel makes its own light, so there is no backlight. OLED panels are thinner and crack more easily. A damaged LCD often shows pale patches or lines. A damaged OLED often shows black areas that slowly spread."
+    },
+    {
+      "heading": "Is it really the screen?",
+      "body": "Cracked glass is easy to spot, but other faults need thought. If the phone rings or vibrates while the screen stays black, the display or its connection is the likely cause. Touch that fails in one area also points to the screen. If the phone shows no sign of life at all, work through the power checks in lesson 8 first."
+    },
+    {
+      "heading": "Taking the old screen off",
+      "body": "The construction type tells you how to reach the screen. Cover cracked glass with clear tape so that it holds together and the suction cup can grip. Warm only the edges, keep picks shallow, and remember that display cables are short. Disconnect the battery before you touch a display cable."
+    },
+    {
+      "heading": "Choosing a replacement",
+      "body": "Buy a screen made for your exact model. Quality varies a lot between sellers. On some phones, a replacement screen can show a warning message or lose features such as the in-screen fingerprint reader. Find out what to expect for your model before you buy."
+    },
+    {
+      "heading": "Test, then seal",
+      "body": "Connect the display cables first, then the battery. Check the picture, the brightness and touch across the whole screen before you apply any adhesive. Always unplug the battery before you unplug a display cable. A phone that has been opened may no longer be water resistant."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which type of screen has no backlight?",
+      "options": ["LCD", "OLED", "Both types", "Neither type"],
+      "correctIndex": 1,
+      "explanation": "Each OLED pixel makes its own light, so an OLED panel does not need a backlight."
+    },
+    {
+      "question": "What should you do to cracked glass before lifting the screen?",
+      "options": ["Heat it as much as you can", "Press on the cracks", "Cover it with clear tape", "Wet it with water"],
+      "correctIndex": 2,
+      "explanation": "Tape holds loose pieces together and gives the suction cup something smooth to grip."
+    },
+    {
+      "question": "A phone rings and vibrates, but the screen stays black. What is the likely cause?",
+      "options": ["The display or its connection", "The SIM tray", "The speaker", "The charging port"],
+      "correctIndex": 0,
+      "explanation": "The phone is clearly running, so the fault is probably in the display or its connector."
+    },
+    {
+      "question": "When should you test a new screen?",
+      "options": ["After the adhesive has set", "Only if it looks damaged", "A few days after the repair", "Before you apply any adhesive"],
+      "correctIndex": 3,
+      "explanation": "Testing before sealing means you can fix a problem without opening the phone again."
+    }
+  ]
+}

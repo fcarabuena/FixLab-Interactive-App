@@ -1,0 +1,49 @@
+{
+  "id": "charging-port-repair",
+  "title": "Pag-aayos ng charging port",
+  "summary": "Paano malalaman kung sira o marumi lang ang port, at ano ang kasama sa pagpapalit nito.",
+  "sections": [
+    {
+      "heading": "Mga senyales ng problema sa port",
+      "body": "Ang sirang port ay puwedeng mag-charge lang kapag nakahawak sa isang anggulo ang cable. Puwedeng napakabagal ng pag-charge, o hindi makita ng computer ang telepono. Kung gumagana ang wireless charging pero hindi ang sa cable, malamang na maayos ang baterya at ang port ang sira."
+    },
+    {
+      "heading": "Linisin muna",
+      "body": "Napupuno ng lint ang port dahil sa bulsa, at hindi na napapasok nang husto ang plug kapag siksik ang lint. Patayin ang telepono, ilawan ang loob ng port, at dahan-dahang tanggalin ang lint gamit ang malambot na brush o toothpick na kahoy. Sumubok ng charger at cable na alam mong gumagana. Maraming problema sa port ang natatapos dito."
+    },
+    {
+      "heading": "Dalawang uri ng port",
+      "body": "Sa maraming telepono, nasa maliit at hiwalay na board o flex cable ang port na napapalitan gamit ang mga simpleng gamit. Sa iba, direkta itong nakahinang sa mainboard. Kailangan ng kasanayan sa micro-soldering ang nakahinang na port, kaya dapat dalhin ng baguhan ang teleponong iyon sa shop."
+    },
+    {
+      "heading": "Ang pagpapalit",
+      "body": "Unahing tanggalin ang baterya. Kunan ng litrato kung paano nakadaan ang manipis na mga antenna cable bago galawin, dahil madalas dumaan ang mga ito sa ibabaw ng charging board. Iangat nang diretso ang mga connector, at huwag kailanman hilahin ang kawad. Ikabit ang bagong piyesa at idaan ang bawat cable nang eksakto gaya ng dati."
+    },
+    {
+      "heading": "Pagsubok sa resulta",
+      "body": "Subukan ang pag-charge, ang koneksyon sa computer, ang mikropono at ang signal bago isara ang telepono. Kapag humina ang signal pagkatapos ng repair na ito, kadalasang maluwag ang isang antenna cable. Huwag kailanman i-charge ang teleponong posibleng basa, dahil puwedeng magdulot ng kalawang at short ang tubig sa port."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Ayaw mag-charge ng telepono sa cable. Ano ang unang dapat subukan?",
+      "options": ["Linisin ang port at sumubok ng gumaganang cable", "Palitan ang mainboard", "Palitan ang baterya", "Painitin ang port"],
+      "explanation": "Karaniwan at murang alisin sa listahan ang lint at sirang cable, kaya laging tingnan muna ang mga ito."
+    },
+    {
+      "question": "Nakahinang sa mainboard ang charging port. Ano ang dapat gawin ng baguhan?",
+      "options": ["Hilahin ang port", "Idikit ang port", "Dalhin ang telepono sa repair shop", "Painitin ang board gamit ang heat gun"],
+      "explanation": "Kailangan ng kasanayan at kagamitan sa micro-soldering ang nakahinang na port."
+    },
+    {
+      "question": "Bakit kukunan ng litrato bago galawin ang mga antenna cable?",
+      "options": ["Para sa warranty", "Para maidaan ulit sa parehong paraan", "Para masubukan ang camera", "Para masukat ang boltahe"],
+      "explanation": "Dapat sundin ng mga antenna cable ang orihinal na daan, dahil puwedeng humina ang signal at maipit ang cable."
+    },
+    {
+      "question": "Mahina ang signal pagkatapos palitan ang port. Ano ang malamang na dahilan?",
+      "options": ["Maruming screen", "Lumang baterya", "Maling charger", "Maluwag na antenna cable"],
+      "explanation": "Madalas nagagalaw ang mga antenna cable sa repair na ito, at nagpapahina ng signal ang maluwag na cable."
+    }
+  ]
+}

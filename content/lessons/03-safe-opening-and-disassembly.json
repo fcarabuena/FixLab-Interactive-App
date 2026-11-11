@@ -1,0 +1,54 @@
+{
+  "id": "safe-opening-and-disassembly",
+  "order": 3,
+  "title": "Safe opening and disassembly",
+  "summary": "How to open a phone without breaking it, and how to keep track of every part.",
+  "sections": [
+    {
+      "heading": "Plan before you open",
+      "body": "Find out the construction type, and read the whole guide first. Back up your data. Let the battery run down to below 25% if you can, and power the phone off fully. Make sure you have the right replacement part before you start."
+    },
+    {
+      "heading": "Using heat safely",
+      "body": "Heat softens adhesive, but too much damages batteries and screens. Use a heat pad or a heat gun on low. Keep the heat moving, stay on the edges, and stop when the surface is too hot to keep a finger on. It is better to warm the phone several times than to overheat it once."
+    },
+    {
+      "heading": "Prying without damage",
+      "body": "Open a small gap with a suction cup, then slide in a plastic pick at a shallow angle. Go only a few millimeters deep, because cables and the battery can sit right at the edge. Leave picks in the seam so the glue does not close again. Never force a stuck section. Look for a screw or clip you missed."
+    },
+    {
+      "heading": "Screws and connectors",
+      "body": "Keep screws in the order you removed them, because a long screw in a short hole can pierce the board. Disconnect the battery before anything else. Lift connectors straight up from their edges with a plastic spudger. When you put a connector back, press it straight down until it clicks."
+    },
+    {
+      "heading": "Test before you close",
+      "body": "Before sealing the phone, connect everything and power it on. Check that the repair worked and that nothing else stopped working. Finding a problem now saves you from opening the phone twice."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What should you disconnect first, once the phone is open?",
+      "options": ["The camera", "The battery", "The display", "The speaker"],
+      "correctIndex": 1,
+      "explanation": "Disconnecting the battery first removes power from the board, so you do not cause a short."
+    },
+    {
+      "question": "How deep should an opening pick go?",
+      "options": ["As deep as it will go", "Halfway across the phone", "Only a few millimeters", "Until it touches the battery"],
+      "correctIndex": 2,
+      "explanation": "Cables and the battery can sit close to the edge, so keep the pick shallow."
+    },
+    {
+      "question": "Why must screws be kept in order?",
+      "options": ["To finish faster", "A long screw in a short hole can damage the board", "So none of them rust", "It makes the phone lighter"],
+      "correctIndex": 1,
+      "explanation": "Screws can differ in length, and a long one in the wrong hole can pierce the board."
+    },
+    {
+      "question": "A section of the phone will not open. What should you do?",
+      "options": ["Use more force", "Switch to a metal tool", "Look for a screw or clip you missed", "Heat it as much as you can"],
+      "correctIndex": 2,
+      "explanation": "Force breaks parts. A stuck section often has a hidden screw or a clip you missed."
+    }
+  ]
+}

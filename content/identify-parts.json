@@ -1,0 +1,174 @@
+[
+  {
+    "id": "back-cover-shell",
+    "name": "Back cover",
+    "layer": "back-cover",
+    "clue": "The outer shell that protects the back of the phone.",
+    "fact": "A glued back must be warmed before it will lift. A clip back releases at the seam.",
+    "zones": [{ "x": 10, "y": 10, "w": 280, "h": 580 }],
+    "includes": ["camera-bump"]
+  },
+  {
+    "id": "camera-bump",
+    "name": "Camera bump",
+    "layer": "back-cover",
+    "clue": "The raised area that holds the lenses.",
+    "fact": "The glass near the camera is often the thinnest, so keep picks away from it.",
+    "zones": [{ "x": 34, "y": 34, "w": 120, "h": 150 }]
+  },
+  {
+    "id": "side-buttons",
+    "name": "Side buttons",
+    "layer": "back-cover",
+    "clue": "Pressed from the edge to power on or change the volume.",
+    "fact": "Buttons are usually linked to the phone by a thin flex cable, so never pull on them.",
+    "zones": [
+      { "x": 0, "y": 132, "w": 14, "h": 86 },
+      { "x": 286, "y": 112, "w": 14, "h": 62 }
+    ]
+  },
+  {
+    "id": "battery-pack",
+    "name": "Battery",
+    "layer": "battery",
+    "clue": "The large, flat pouch that stores the phone's power.",
+    "fact": "It is a lithium pouch. Never bend or puncture it, because it can catch fire.",
+    "zones": [{ "x": 36, "y": 258, "w": 228, "h": 208 }]
+  },
+  {
+    "id": "pull-tabs",
+    "name": "Adhesive pull tabs",
+    "layer": "battery",
+    "clue": "Small tabs used to release the glue under the battery.",
+    "fact": "Pull them slowly and low, almost flat against the phone, so that they do not snap.",
+    "zones": [
+      { "x": 66, "y": 448, "w": 36, "h": 40 },
+      { "x": 198, "y": 448, "w": 36, "h": 40 }
+    ]
+  },
+  {
+    "id": "battery-connector",
+    "name": "Battery connector",
+    "layer": "battery",
+    "clue": "The small press-on plug at the end of the battery's cable.",
+    "fact": "This is the first thing to unplug in most repairs. Use plastic tools only.",
+    "zones": [{ "x": 196, "y": 236, "w": 46, "h": 26 }]
+  },
+  {
+    "id": "mainboard-pcb",
+    "name": "Mainboard",
+    "layer": "mainboard",
+    "clue": "The large green circuit board that everything connects to.",
+    "fact": "It holds the processor and memory, and it links every other part of the phone.",
+    "zones": [
+      { "x": 30, "y": 30, "w": 240, "h": 226 },
+      { "x": 222, "y": 240, "w": 48, "h": 236 }
+    ],
+    "includes": ["rear-camera-module", "metal-shield", "chip", "battery-socket"]
+  },
+  {
+    "id": "rear-camera-module",
+    "name": "Rear camera module",
+    "layer": "mainboard",
+    "clue": "The dark block with round lenses, near the top corner.",
+    "fact": "It plugs into the mainboard with its own small connector, so it can be swapped.",
+    "zones": [{ "x": 44, "y": 44, "w": 100, "h": 132 }]
+  },
+  {
+    "id": "metal-shield",
+    "name": "Metal shield",
+    "layer": "mainboard",
+    "clue": "A silver cover that sits over sensitive chips.",
+    "fact": "Shields block electrical interference. Leave them in place during basic repairs.",
+    "zones": [
+      { "x": 160, "y": 48, "w": 94, "h": 92 },
+      { "x": 50, "y": 192, "w": 92, "h": 50 },
+      { "x": 232, "y": 290, "w": 28, "h": 70 }
+    ]
+  },
+  {
+    "id": "chip",
+    "name": "Chip",
+    "layer": "mainboard",
+    "clue": "A small black part soldered to the board, with no silver cover.",
+    "fact": "Chips are also called integrated circuits. They are soldered on, so they cannot be swapped with basic tools.",
+    "zones": [
+      { "x": 160, "y": 156, "w": 60, "h": 32 },
+      { "x": 232, "y": 386, "w": 28, "h": 40 }
+    ]
+  },
+  {
+    "id": "battery-socket",
+    "name": "Battery socket",
+    "layer": "mainboard",
+    "clue": "The gold socket on the board where the battery plugs in.",
+    "fact": "Press connectors straight down. Going in at an angle can bend the socket's pins.",
+    "zones": [{ "x": 196, "y": 210, "w": 46, "h": 26 }]
+  },
+  {
+    "id": "charging-board",
+    "name": "Charging board",
+    "layer": "charging-flex",
+    "clue": "The small orange board along the bottom edge.",
+    "fact": "On many phones this is a separate part that can be replaced with basic tools.",
+    "zones": [{ "x": 40, "y": 480, "w": 220, "h": 92 }],
+    "includes": ["charging-port", "microphone", "loudspeaker"]
+  },
+  {
+    "id": "charging-port",
+    "name": "Charging port",
+    "layer": "charging-flex",
+    "clue": "Where the charging cable plugs in.",
+    "fact": "Always clean out lint and try another cable before you replace a port.",
+    "zones": [{ "x": 112, "y": 546, "w": 76, "h": 30 }]
+  },
+  {
+    "id": "microphone",
+    "name": "Microphone",
+    "layer": "charging-flex",
+    "clue": "A tiny round part that picks up your voice.",
+    "fact": "It often sits on the charging board, so faint calls can point to this part.",
+    "zones": [{ "x": 60, "y": 522, "w": 16, "h": 16 }]
+  },
+  {
+    "id": "loudspeaker",
+    "name": "Loudspeaker",
+    "layer": "charging-flex",
+    "clue": "The slotted area that plays sound.",
+    "fact": "Dust in the mesh can muffle it, so check for dirt before you replace it.",
+    "zones": [{ "x": 200, "y": 492, "w": 48, "h": 40 }]
+  },
+  {
+    "id": "flex-cable",
+    "name": "Flex cable",
+    "layer": "charging-flex",
+    "clue": "The long, thin ribbon running up the side.",
+    "fact": "Flex cables carry power and signals. They tear easily, so never pull on them.",
+    "zones": [{ "x": 44, "y": 252, "w": 20, "h": 228 }]
+  },
+  {
+    "id": "flex-connector",
+    "name": "Flex connector",
+    "layer": "charging-flex",
+    "clue": "The gold plug at the top end of the ribbon.",
+    "fact": "Lift connectors straight up from their edges with a plastic spudger.",
+    "zones": [{ "x": 36, "y": 226, "w": 46, "h": 26 }]
+  },
+  {
+    "id": "display-panel",
+    "name": "Display panel",
+    "layer": "display",
+    "clue": "The large panel that fills the frame. You are seeing its inside face.",
+    "fact": "Bending the panel can break it, so support it whenever you handle it.",
+    "zones": [{ "x": 22, "y": 22, "w": 256, "h": 556 }],
+    "includes": ["display-connector"]
+  },
+  {
+    "id": "display-connector",
+    "name": "Display connector",
+    "layer": "display",
+    "clue": "The orange cable joint on the panel.",
+    "fact": "Always disconnect the battery before you unplug a display cable.",
+    "zones": [{ "x": 120, "y": 500, "w": 60, "h": 46 }]
+  }
+]

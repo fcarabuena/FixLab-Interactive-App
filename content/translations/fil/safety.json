@@ -1,0 +1,52 @@
+[
+  {
+    "id": "battery-emergency",
+    "title": "Kapag nagsimulang masira ang baterya",
+    "summary": "Mas mahalaga ang kaligtasan mo kaysa sa telepono.",
+    "rules": [
+      "Mga babala ang pagsirit, usok, matamis o amoy-kemikal na singaw, o biglang pag-init.",
+      "Kung ligtas itong gawin, ihulog ang baterya sa metal na lalagyan ng tuyong buhangin.",
+      "Lumayo at papasukin ang sariwang hangin. Huwag langhapin ang usok.",
+      "Kung may sunog, lumabas ng kuwarto at tumawag sa emergency services."
+    ]
+  },
+  {
+    "id": "esd",
+    "title": "Static electricity (ESD)",
+    "summary": "Puwedeng makasira ng chip ang static kahit wala kang maramdaman, at baka sa huli na lumabas ang sira.",
+    "rules": [
+      "Magtrabaho sa anti-static mat kung kaya.",
+      "Magsuot ng naka-ground na wrist strap, o humawak muna sa naka-ground na metal bago hawakan ang board.",
+      "Umiwas sa carpet at sa damit na synthetic habang nagtatrabaho.",
+      "Hawakan ang mga board sa gilid.",
+      "Ilagay ang maluluwag na piyesa sa mat, hindi sa plastic bag."
+    ]
+  },
+  {
+    "id": "battery",
+    "title": "Kaligtasan sa lithium battery",
+    "summary": "Puwedeng magsimula ng sunog ang sirang baterya, kahit ilang minuto na pagkatapos itong masira.",
+    "rules": [
+      "Hayaang bumaba ang baterya sa ilalim ng 25% bago ito tanggalin.",
+      "Tanggalin ang connector ng baterya bago galawin ang iba pa.",
+      "Gamit na plastik lang ang gamitin sa paligid ng baterya.",
+      "Huwag kailanman butasin, baluktutin, durugin o direktang painitin ang baterya.",
+      "Huwag kailanman i-charge o ipagpatuloy ang paggamit ng namamagang baterya. Dalhin ito sa repair shop.",
+      "Bateryang gawa lang para sa eksaktong modelo mo ang ikabit, mula sa nagbebentang pinagkakatiwalaan mo.",
+      "Lagyan ng tape ang lumang connector at dalhin ang baterya sa collection point ng e-waste. Huwag kailanman itapon sa basurahan sa bahay."
+    ]
+  },
+  {
+    "id": "workspace",
+    "title": "Init, salamin at kemikal",
+    "summary": "Karamihan ng pinsala ay galing sa mainit na bagay at matatalim na gilid.",
+    "rules": [
+      "Magsuot ng safety glasses sa bawat repair.",
+      "Laging igalaw ang init at sa mga gilid lang ng telepono.",
+      "Palamigin muna ang mga pinainit na piyesa bago hawakan.",
+      "Magsuot ng guwantes kapag may basag na salamin, at balutin ang lumang salamin bago itapon.",
+      "Nasusunog ang isopropyl alcohol. Ilayo ito sa mga heat tool at gamitin sa lugar na mahangin.",
+      "Magtrabaho sa malinis na mesa, huwag sa kama, sofa o carpet."
+    ]
+  }
+]
